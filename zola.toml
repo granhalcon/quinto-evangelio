@@ -1,0 +1,94 @@
+# Sitio
+base_url = "https://granhalcon.github.io/quinto-evangelio/"
+title = "El Quinto Evangelio"
+description = "Edición digital íntegra de El Quinto Evangelio."
+default_language = "es"
+author = "Samael Aun Weor"
+
+# Compilación
+output_dir = "public"
+compile_sass = true
+minify_html = false
+hard_link_static = false
+preserve_dotfiles_in_output = false
+
+build_search_index = true
+generate_sitemap = true
+generate_robots_txt = true
+generate_feeds = false
+exclude_paginated_pages_in_sitemap = "all"
+taxonomies = []
+
+[markdown]
+render_emoji = false
+smart_punctuation = false
+definition_list = true
+bottom_footnotes = true
+github_alerts = false
+insert_anchor_links = "right"
+lazy_async_image = true
+external_links_class = "external-link"
+external_links_target_blank = false
+external_links_no_follow = false
+external_links_no_referrer = false
+external_links_external = true
+
+[markdown.highlighting]
+error_on_missing_language = true
+style = "inline"
+theme = "catppuccin-mocha"
+
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
+paths_keep_dates = true
+
+[link_checker]
+internal_level = "warn"
+external_level = "warn"
+skip_prefixes = ["mailto:", "tel:"]
+skip_anchor_prefixes = []
+
+[search]
+include_title = true
+include_description = true
+include_date = true
+include_path = true
+include_content = true
+index_format = "fuse_json"
+
+[extra]
+search_url = "buscar/"
+footer_description = "Edición digital íntegra organizada para lectura y consulta."
+footer_author = "Gran Halcón"
+copyright_year = 2026
+navigation = [
+  { name = "Círculo", url = "https://granhalcon.github.io/circulo-solar/" },
+  { name = "Círculo de Iniciación", url = "https://granhalcon.github.io/circulo-solar/circulo-de-iniciacion/" },
+  { name = "Biblioteca", url = "https://granhalcon.github.io/circulo-solar/biblioteca-de-consulta-saw/" },
+  { name = "Quinto Evangelio", url = "https://granhalcon.github.io/quinto-evangelio/", active = true },
+  { name = "Primeras Letras", url = "https://granhalcon.github.io/circulo-solar/primeras-letras/" },
+  { name = "Pintas Ayahuasqueras", url = "https://granhalcon.github.io/circulo-solar/pintas-ayahuasqueras/" },
+  { name = "Círculos de Medicina", url = "https://granhalcon.github.io/circulo-solar/circulos-de-medicina/" },
+]
+
+[extra.site]
+name = "El Quinto Evangelio"
+short_name = "Quinto Evangelio"
+locale = "es_MX"
+canonical_url = "https://granhalcon.github.io/quinto-evangelio/"
+
+[extra.publication]
+title = "El Quinto Evangelio"
+authors = ["Samael Aun Weor"]
+language = "es"
+publisher = "Círculo de Cultura Gnóstica y Medicinas Ancestrales"
+license = "CC BY-NC-SA 4.0"
+license_url = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+[extra.search]
+enabled = true
+scope = "local-and-global"
+source = "quinto-evangelio"
+include_in_global_index = true

@@ -1,0 +1,529 @@
+source,dest,period,weight,title,removed_h1,transformed_original_titles,generated_parts,document_type,metadata_count,review_type
+editorial/saw/qe/001/001-001.md,sitios/quinto-evangelio/content/decada-1950-1959/preguntas-y-respuestas-transcritas-al-final-de-la-1-edicion-de-la-revolucion-de-bel/index.md,decada-1950-1959,1,"001 PREGUNTAS Y RESPUESTAS TRANSCRITAS AL FINAL DE LA 1ª EDICIÓN DE ""LA REVOLUCIÓN DE BEL""",True,0,1,conference,7,False
+editorial/saw/qe/001/001-002.md,sitios/quinto-evangelio/content/decada-1950-1959/diferencia-entre-aun-weor-y-victor-manuel-gomez-rodriguez/index.md,decada-1950-1959,2,DIFERENCIA ENTRE AUN WEOR Y VÍCTOR MANUEL GÓMEZ RODRÍGUEZ,True,0,1,short-text,5,False
+editorial/saw/qe/001/001-003.md,sitios/quinto-evangelio/content/decada-1950-1959/el-libro-de-la-virgen-del-carmen/_index.md,decada-1950-1959,3,EL LIBRO DE LA VIRGEN DEL CARMEN,True,0,12,book,5,False
+editorial/saw/qe/001/001-004.md,sitios/quinto-evangelio/content/decada-1950-1959/mensaje-de-navidad-1952-1-de-25/index.md,decada-1950-1959,4,MENSAJE DE NAVIDAD 1952 (1 DE 25),True,0,1,short-text,5,False
+editorial/saw/qe/001/001-005.md,sitios/quinto-evangelio/content/decada-1950-1959/mensaje-de-navidad-1953-2-de-25/index.md,decada-1950-1959,5,MENSAJE DE NAVIDAD 1953 (2 DE 25),True,0,1,short-text,5,False
+editorial/saw/qe/001/001-006.md,sitios/quinto-evangelio/content/decada-1950-1959/mensaje-de-navidad-1954-3-de-25/index.md,decada-1950-1959,6,MENSAJE DE NAVIDAD 1954 (3 DE 25),True,0,1,short-text,5,False
+editorial/saw/qe/001/001-007.md,sitios/quinto-evangelio/content/decada-1950-1959/mensaje-de-navidad-1955-4-de-25/index.md,decada-1950-1959,7,MENSAJE DE NAVIDAD 1955 (4 DE 25),True,0,1,short-text,5,False
+editorial/saw/qe/001/001-008.md,sitios/quinto-evangelio/content/decada-1950-1959/creacion-de-la-revista-abraxas-y-comentarios-sobre-la-marcha-iniciatica-de-julio-medina-vizcaino/index.md,decada-1950-1959,8,CREACIÓN DE LA REVISTA ABRAXAS Y COMENTARIOS SOBRE LA MARCHA INICIÁTICA DE JULIO MEDINA VIZCAÍNO,True,0,1,short-text,5,False
+editorial/saw/qe/001/001-009.md,sitios/quinto-evangelio/content/decada-1950-1959/el-sello-de-salomon/index.md,decada-1950-1959,9,EL SELLO DE SALOMÓN,True,0,1,short-text,5,False
+editorial/saw/qe/001/001-010.md,sitios/quinto-evangelio/content/decada-1950-1959/mensaje-de-navidad-1956-5-de-25/index.md,decada-1950-1959,10,MENSAJE DE NAVIDAD 1956 (5 DE 25),True,0,1,short-text,5,False
+editorial/saw/qe/001/001-011.md,sitios/quinto-evangelio/content/decada-1950-1959/mensaje-de-ano-nuevo-1957-1-de-2/index.md,decada-1950-1959,11,MENSAJE DE AÑO NUEVO 1957 (1 DE 2),True,0,1,short-text,5,False
+editorial/saw/qe/001/001-012.md,sitios/quinto-evangelio/content/decada-1950-1959/profecias-para-una-nueva-era/index.md,decada-1950-1959,12,PROFECÍAS PARA UNA NUEVA ERA,True,0,1,short-text,5,False
+editorial/saw/qe/001/001-013.md,sitios/quinto-evangelio/content/decada-1950-1959/repaso-de-los-arcanos-1-a-7-en-relacion-al-arcano-azf/index.md,decada-1950-1959,13,REPASO DE LOS ARCANOS 1 A 7 EN RELACIÓN AL ARCANO AZF,True,0,1,short-text,5,False
+editorial/saw/qe/001/001-014.md,sitios/quinto-evangelio/content/decada-1950-1959/el-arcano-azf-y-las-runas/index.md,decada-1950-1959,14,EL ARCANO AZF Y LAS RUNAS,True,0,1,short-text,5,False
+editorial/saw/qe/001/001-015.md,sitios/quinto-evangelio/content/decada-1950-1959/repaso-de-arcanos-6-a-11-y-arcano-12/index.md,decada-1950-1959,15,REPASO DE ARCANOS 6 A 11 Y ARCANO 12,True,0,1,short-text,5,False
+editorial/saw/qe/001/001-016.md,sitios/quinto-evangelio/content/decada-1950-1959/el-trabajo-del-dia-13/index.md,decada-1950-1959,16,EL TRABAJO DEL DÍA 13,True,0,1,short-text,5,False
+editorial/saw/qe/001/001-017.md,sitios/quinto-evangelio/content/decada-1950-1959/mensaje-de-navidad-1957-6-de-25/index.md,decada-1950-1959,17,MENSAJE DE NAVIDAD 1957 (6 DE 25),True,0,1,short-text,5,False
+editorial/saw/qe/001/001-018.md,sitios/quinto-evangelio/content/decada-1950-1959/mensaje-de-ano-nuevo-1958-2-de-2/index.md,decada-1950-1959,18,MENSAJE DE AÑO NUEVO 1958 (2 DE 2),True,0,1,short-text,5,False
+editorial/saw/qe/001/001-019.md,sitios/quinto-evangelio/content/decada-1950-1959/el-arcano-20/index.md,decada-1950-1959,19,EL ARCANO 20,True,0,1,short-text,5,False
+editorial/saw/qe/001/001-020.md,sitios/quinto-evangelio/content/decada-1950-1959/el-inicio-del-movimiento-gnostico-en-mexico/index.md,decada-1950-1959,20,EL INICIO DEL MOVIMIENTO GNÓSTICO EN MÉXICO,True,0,1,short-text,5,False
+editorial/saw/qe/001/001-021.md,sitios/quinto-evangelio/content/decada-1950-1959/el-arcano-21/index.md,decada-1950-1959,21,EL ARCANO 21,True,0,1,short-text,5,False
+editorial/saw/qe/001/001-022.md,sitios/quinto-evangelio/content/decada-1950-1959/el-arcano-22/index.md,decada-1950-1959,22,EL ARCANO 22,True,0,1,short-text,5,False
+editorial/saw/qe/001/001-023.md,sitios/quinto-evangelio/content/decada-1950-1959/formacion-del-a-g-l-a/index.md,decada-1950-1959,23,FORMACIÓN DEL A.G.L.A.,True,0,1,short-text,5,False
+editorial/saw/qe/001/001-024.md,sitios/quinto-evangelio/content/decada-1950-1959/los-estados-jinas/index.md,decada-1950-1959,24,002 LOS ESTADOS JINAS,True,0,1,conference,10,False
+editorial/saw/qe/001/001-025.md,sitios/quinto-evangelio/content/decada-1950-1959/carta-abierta-a-pio-xii/index.md,decada-1950-1959,25,CARTA ABIERTA A PÍO XII,True,0,1,short-text,5,False
+editorial/saw/qe/001/001-026.md,sitios/quinto-evangelio/content/decada-1950-1959/mensaje-de-navidad-1958-7-de-25/index.md,decada-1950-1959,26,MENSAJE DE NAVIDAD 1958 (7 DE 25),True,0,1,short-text,5,False
+editorial/saw/qe/001/001-027.md,sitios/quinto-evangelio/content/decada-1950-1959/practica-para-liberar-la-conciencia/index.md,decada-1950-1959,27,F001 PRÁCTICA PARA LIBERAR LA CONCIENCIA,True,0,1,transcription-fragment,7,False
+editorial/saw/qe/001/001-028.md,sitios/quinto-evangelio/content/decada-1950-1959/mensaje-de-navidad-1959-8-de-25/index.md,decada-1950-1959,28,MENSAJE DE NAVIDAD 1959 (8 DE 25),True,0,1,short-text,5,False
+editorial/saw/qe/001/001-029.md,sitios/quinto-evangelio/content/decada-1950-1959/la-verdad/index.md,decada-1950-1959,29,LA VERDAD,True,0,1,short-text,5,False
+editorial/saw/qe/002/002-001.md,sitios/quinto-evangelio/content/decada-1960-1969/el-poder-de-los-mantrams/index.md,decada-1960-1969,30,003 EL PODER DE LOS MANTRAMS,True,0,1,conference,10,False
+editorial/saw/qe/002/002-002.md,sitios/quinto-evangelio/content/decada-1960-1969/extractos-de-una-carta-a-un-discipulo/index.md,decada-1960-1969,31,EXTRACTOS DE UNA CARTA A UN DISCÍPULO,True,0,1,short-text,5,False
+editorial/saw/qe/002/002-003.md,sitios/quinto-evangelio/content/decada-1960-1969/el-sentido-practico-del-gnosticismo-universal/index.md,decada-1960-1969,32,004 EL SENTIDO PRÁCTICO DEL GNOSTICISMO UNIVERSAL,True,0,1,conference,10,False
+editorial/saw/qe/002/002-004.md,sitios/quinto-evangelio/content/decada-1960-1969/leccion-mantrica/index.md,decada-1960-1969,33,005 LECCIÓN MÁNTRICA,True,0,1,conference,10,False
+editorial/saw/qe/002/002-005.md,sitios/quinto-evangelio/content/decada-1960-1969/mensaje-de-navidad-1960-9-de-25/index.md,decada-1960-1969,34,MENSAJE DE NAVIDAD 1960 (9 DE 25),True,0,1,short-text,5,False
+editorial/saw/qe/002/002-006.md,sitios/quinto-evangelio/content/decada-1960-1969/introduccion-a-la-gnosis/_index.md,decada-1960-1969,35,INTRODUCCIÓN A LA GNOSIS,True,0,36,book,5,False
+editorial/saw/qe/002/002-007.md,sitios/quinto-evangelio/content/decada-1960-1969/mensaje-de-navidad-1961-10-de-25/index.md,decada-1960-1969,36,MENSAJE DE NAVIDAD 1961 (10 DE 25),True,0,1,short-text,5,False
+editorial/saw/qe/002/002-008.md,sitios/quinto-evangelio/content/decada-1960-1969/manifiesto-gnostico-cristiano-universal-1962/index.md,decada-1960-1969,37,MANIFIESTO GNÓSTICO CRISTIANO UNIVERSAL 1962,True,0,1,short-text,6,False
+editorial/saw/qe/002/002-009.md,sitios/quinto-evangelio/content/decada-1960-1969/mensaje-de-navidad-1962-11-de-25/index.md,decada-1960-1969,38,MENSAJE DE NAVIDAD 1962 (11 DE 25),True,0,1,short-text,5,False
+editorial/saw/qe/002/002-010.md,sitios/quinto-evangelio/content/decada-1960-1969/matrimonio-divorcio-y-tantrismo/_index.md,decada-1960-1969,39,"MATRIMONIO, DIVORCIO Y TANTRISMO",True,0,2,book,5,False
+editorial/saw/qe/002/002-011.md,sitios/quinto-evangelio/content/decada-1960-1969/supremo-gran-manifiesto-universal-del-movimiento-gnostico/index.md,decada-1960-1969,40,SUPREMO GRAN MANIFIESTO UNIVERSAL DEL MOVIMIENTO GNÓSTICO,True,0,1,short-text,6,False
+editorial/saw/qe/002/002-012.md,sitios/quinto-evangelio/content/decada-1960-1969/el-mago-negro-bapak-subud/index.md,decada-1960-1969,41,EL MAGO NEGRO BAPAK SUBUD,True,0,1,short-text,5,False
+editorial/saw/qe/002/002-013.md,sitios/quinto-evangelio/content/decada-1960-1969/luto-en-la-bandera-gnostica/index.md,decada-1960-1969,42,LUTO EN LA BANDERA GNÓSTICA,True,0,1,short-text,5,False
+editorial/saw/qe/002/002-014.md,sitios/quinto-evangelio/content/decada-1960-1969/mensaje-de-navidad-1963-12-de-25/index.md,decada-1960-1969,43,MENSAJE DE NAVIDAD 1963 (12 DE 25),True,0,1,short-text,5,False
+editorial/saw/qe/002/002-015.md,sitios/quinto-evangelio/content/decada-1960-1969/gran-manifiesto-gnostico-del-3-er-ano-de-acuario/index.md,decada-1960-1969,44,GRAN MANIFIESTO GNÓSTICO DEL 3^er^ AÑO DE ACUARIO,True,0,1,short-text,5,False
+editorial/saw/qe/002/002-016.md,sitios/quinto-evangelio/content/decada-1960-1969/publicacion-de-el-cristo-social/index.md,decada-1960-1969,45,"PUBLICACIÓN DE ""EL CRISTO SOCIAL""",True,0,1,short-text,5,False
+editorial/saw/qe/002/002-017.md,sitios/quinto-evangelio/content/decada-1960-1969/el-libro-de-los-muertos/_index.md,decada-1960-1969,46,EL LIBRO DE LOS MUERTOS,True,0,6,book,5,False
+editorial/saw/qe/002/002-018.md,sitios/quinto-evangelio/content/decada-1960-1969/la-humildad-frente-a-la-soberbia/index.md,decada-1960-1969,47,LA HUMILDAD FRENTE A LA SOBERBIA,True,0,1,short-text,5,False
+editorial/saw/qe/002/002-019.md,sitios/quinto-evangelio/content/decada-1960-1969/amor-y-caridad/index.md,decada-1960-1969,48,AMOR Y CARIDAD,True,0,1,short-text,5,False
+editorial/saw/qe/002/002-020.md,sitios/quinto-evangelio/content/decada-1960-1969/congreso-gnostico-ecumenico-latinoamericano-1968/index.md,decada-1960-1969,49,CONGRESO GNÓSTICO ECUMÉNICO LATINOAMERICANO 1968,True,0,1,short-text,5,False
+editorial/saw/qe/002/002-021.md,sitios/quinto-evangelio/content/decada-1960-1969/leyes-del-ritmo-retorno-y-recurrencia/index.md,decada-1960-1969,50,"LEYES DEL RITMO, RETORNO Y RECURRENCIA",True,0,1,short-text,5,False
+editorial/saw/qe/002/002-022.md,sitios/quinto-evangelio/content/decada-1960-1969/carta-abierta-a-todas-las-escuelas-religiones-ordenes-y-sectas/index.md,decada-1960-1969,51,"CARTA ABIERTA A TODAS LAS ESCUELAS, RELIGIONES, ÓRDENES Y SECTAS",True,0,1,short-text,5,False
+editorial/saw/qe/002/002-023.md,sitios/quinto-evangelio/content/decada-1960-1969/alianza-con-marte/index.md,decada-1960-1969,52,ALIANZA CON MARTE,True,0,1,short-text,5,False
+editorial/saw/qe/002/002-024.md,sitios/quinto-evangelio/content/decada-1960-1969/gran-manifiesto-gnostico-a-nuestros-amadisimos-hermanos-gnosticos-brasilenos/index.md,decada-1960-1969,53,GRAN MANIFIESTO GNÓSTICO A NUESTROS AMADÍSIMOS HERMANOS GNÓSTICOS BRASILEÑOS,True,0,1,short-text,5,False
+editorial/saw/qe/002/002-025.md,sitios/quinto-evangelio/content/decada-1960-1969/recordatorio-en-el-duodecimo-aniversario-del-natalicio-espiritual-del-angel-samael/index.md,decada-1960-1969,54,RECORDATORIO EN EL DUODÉCIMO ANIVERSARIO DEL NATALICIO ESPIRITUAL DEL ÁNGEL SAMAEL,True,0,1,short-text,5,False
+editorial/saw/qe/002/002-026.md,sitios/quinto-evangelio/content/decada-1960-1969/la-explotacion-del-hombre-por-el-hombre/index.md,decada-1960-1969,55,LA EXPLOTACIÓN DEL HOMBRE POR EL HOMBRE,True,0,1,short-text,5,False
+editorial/saw/qe/002/002-027.md,sitios/quinto-evangelio/content/decada-1960-1969/el-regimen-esclavista/index.md,decada-1960-1969,56,EL RÉGIMEN ESCLAVISTA,True,0,1,short-text,5,False
+editorial/saw/qe/002/002-028.md,sitios/quinto-evangelio/content/decada-1960-1969/la-cuarta-dimension/index.md,decada-1960-1969,57,LA CUARTA DIMENSIÓN,True,0,1,short-text,5,False
+editorial/saw/qe/002/002-029.md,sitios/quinto-evangelio/content/decada-1960-1969/sobre-la-vida-privada-de-los-demas/index.md,decada-1960-1969,58,SOBRE LA VIDA PRIVADA DE LOS DEMÁS,True,0,1,short-text,5,False
+editorial/saw/qe/002/002-030.md,sitios/quinto-evangelio/content/decada-1960-1969/sobre-la-chismografia/index.md,decada-1960-1969,59,SOBRE LA CHISMOGRAFÍA,True,0,1,short-text,5,False
+editorial/saw/qe/002/002-031.md,sitios/quinto-evangelio/content/decada-1960-1969/sobre-salvador-villanueva-medina/index.md,decada-1960-1969,60,SOBRE SALVADOR VILLANUEVA MEDINA,True,0,1,short-text,5,False
+editorial/saw/qe/002/002-032.md,sitios/quinto-evangelio/content/decada-1960-1969/el-vampirismo/index.md,decada-1960-1969,61,EL VAMPIRISMO,True,0,1,short-text,5,False
+editorial/saw/qe/002/002-033.md,sitios/quinto-evangelio/content/decada-1960-1969/yo-soy-el-avatara-de-la-era-de-acuario/index.md,decada-1960-1969,62,YO SOY EL AVATARA DE LA ERA DE ACUARIO,True,0,1,short-text,5,False
+editorial/saw/qe/002/002-034.md,sitios/quinto-evangelio/content/decada-1960-1969/gran-manifiesto-gnostico-del-supremo-consejo-de-la-paz/index.md,decada-1960-1969,63,GRAN MANIFIESTO GNÓSTICO DEL SUPREMO CONSEJO DE LA PAZ,True,0,1,short-text,5,False
+editorial/saw/qe/002/002-035.md,sitios/quinto-evangelio/content/decada-1960-1969/entrevista-de-celestino-lopez-lindo/index.md,decada-1960-1969,64,006 ENTREVISTA DE CELESTINO LÓPEZ LINDO,True,0,1,conference,10,False
+editorial/saw/qe/002/002-036.md,sitios/quinto-evangelio/content/decada-1960-1969/como-resolver-problemas/index.md,decada-1960-1969,65,F002 CÓMO RESOLVER PROBLEMAS,True,0,1,transcription-fragment,7,False
+editorial/saw/qe/002/002-037.md,sitios/quinto-evangelio/content/decada-1960-1969/el-origen-del-ego/index.md,decada-1960-1969,66,007 EL ORIGEN DEL EGO,True,0,1,conference,7,False
+editorial/saw/qe/002/002-038.md,sitios/quinto-evangelio/content/decada-1960-1969/la-casa-del-peregrino/index.md,decada-1960-1969,67,LA CASA DEL PEREGRINO,True,0,1,short-text,6,False
+editorial/saw/qe/002/002-039.md,sitios/quinto-evangelio/content/decada-1960-1969/carta-del-maestro-al-congreso-de-barranquilla-de-1968/index.md,decada-1960-1969,68,CARTA DEL MAESTRO AL CONGRESO DE BARRANQUILLA DE 1968,True,0,1,short-text,5,False
+editorial/saw/qe/002/002-040.md,sitios/quinto-evangelio/content/decada-1960-1969/el-pequeno-y-limitado-mundo-en-que-vivimos/index.md,decada-1960-1969,69,008 EL PEQUEÑO Y LIMITADO MUNDO EN QUE VIVIMOS,True,0,1,conference,7,False
+editorial/saw/qe/002/002-041.md,sitios/quinto-evangelio/content/decada-1960-1969/los-siete-dias-de-la-creacion/index.md,decada-1960-1969,70,F003 LOS SIETE DÍAS DE LA CREACIÓN,True,0,1,transcription-fragment,7,False
+editorial/saw/qe/002/002-042.md,sitios/quinto-evangelio/content/decada-1960-1969/radiaciones-argentinas/index.md,decada-1960-1969,71,RADIACIONES ARGENTINAS,True,0,1,short-text,5,False
+editorial/saw/qe/003/003-001.md,sitios/quinto-evangelio/content/ano-1970/tecnicas-para-el-despertar-de-la-conciencia/index.md,ano-1970,72,F004 TÉCNICAS PARA EL DESPERTAR DE LA CONCIENCIA,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/003/003-002.md,sitios/quinto-evangelio/content/ano-1970/la-mente/index.md,ano-1970,73,009 LA MENTE,True,0,1,conference,10,False
+editorial/saw/qe/003/003-003.md,sitios/quinto-evangelio/content/ano-1970/el-fuego-serpentino/index.md,ano-1970,74,EL FUEGO SERPENTINO,True,0,1,short-text,5,False
+editorial/saw/qe/003/003-004.md,sitios/quinto-evangelio/content/ano-1970/la-ninez-desamparada/index.md,ano-1970,75,LA NIÑEZ DESAMPARADA,True,0,1,short-text,5,False
+editorial/saw/qe/003/003-005.md,sitios/quinto-evangelio/content/ano-1970/sobre-las-vacunas/index.md,ano-1970,76,SOBRE LAS VACUNAS,True,0,1,short-text,5,False
+editorial/saw/qe/003/003-006.md,sitios/quinto-evangelio/content/ano-1970/forma-total-o-desplegada-del-valor/index.md,ano-1970,77,FORMA TOTAL O DESPLEGADA DEL VALOR,True,0,1,short-text,5,False
+editorial/saw/qe/003/003-007.md,sitios/quinto-evangelio/content/ano-1970/la-gran-obra/index.md,ano-1970,78,010 LA GRAN OBRA,True,0,1,conference,10,False
+editorial/saw/qe/003/003-008.md,sitios/quinto-evangelio/content/ano-1970/la-antropologia-gnostica-y-el-superhombre/index.md,ano-1970,79,F005 LA ANTROPOLOGÍA GNÓSTICA Y EL SUPERHOMBRE,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/003/003-009.md,sitios/quinto-evangelio/content/ano-1970/el-proceso-de-la-hipnosis-en-el-animal-intelectual/index.md,ano-1970,80,F006 EL PROCESO DE LA HIPNOSIS EN EL ANIMAL INTELECTUAL,True,0,1,transcription-fragment,7,False
+editorial/saw/qe/003/003-010.md,sitios/quinto-evangelio/content/ano-1970/la-ley-del-eterno-trogo-autoegocratico-cosmico-comun/index.md,ano-1970,81,011 LA LEY DEL ETERNO TROGO AUTOEGOCRÁTICO CÓSMICO COMÚN,True,0,1,conference,7,False
+editorial/saw/qe/003/003-011.md,sitios/quinto-evangelio/content/ano-1970/mas-alla-de-la-muerte/_index.md,ano-1970,82,MÁS ALLÁ DE LA MUERTE,True,0,17,book,5,False
+editorial/saw/qe/003/003-012.md,sitios/quinto-evangelio/content/ano-1970/conciencia-retorno-y-reencarnacion/index.md,ano-1970,83,"012 CONCIENCIA, RETORNO Y REENCARNACIÓN",True,0,1,conference,11,False
+editorial/saw/qe/004/004-001.md,sitios/quinto-evangelio/content/ano-1971/gran-manifiesto-gnostico-1971/index.md,ano-1971,84,GRAN MANIFIESTO GNÓSTICO 1971,True,0,1,short-text,5,False
+editorial/saw/qe/004/004-002.md,sitios/quinto-evangelio/content/ano-1971/la-muerte/index.md,ano-1971,85,013 LA MUERTE,True,0,1,conference,7,False
+editorial/saw/qe/004/004-003.md,sitios/quinto-evangelio/content/ano-1971/los-duendes/index.md,ano-1971,86,014 LOS DUENDES,True,0,1,conference,7,False
+editorial/saw/qe/004/004-004.md,sitios/quinto-evangelio/content/ano-1971/las-brujas/index.md,ano-1971,87,015 LAS BRUJAS,True,0,1,conference,7,False
+editorial/saw/qe/004/004-005.md,sitios/quinto-evangelio/content/ano-1971/narraciones-psiquicas/index.md,ano-1971,88,016 NARRACIONES PSÍQUICAS,True,0,1,conference,7,False
+editorial/saw/qe/004/004-006.md,sitios/quinto-evangelio/content/ano-1971/la-reencarnacion/index.md,ano-1971,89,017 LA REENCARNACIÓN,True,0,1,conference,7,False
+editorial/saw/qe/004/004-007.md,sitios/quinto-evangelio/content/ano-1971/el-karma/index.md,ano-1971,90,018 EL KARMA,True,0,1,conference,7,False
+editorial/saw/qe/004/004-008.md,sitios/quinto-evangelio/content/ano-1971/el-apagon-de-nueva-york/index.md,ano-1971,91,019 EL APAGÓN DE NUEVA YORK,True,0,1,conference,7,False
+editorial/saw/qe/004/004-009.md,sitios/quinto-evangelio/content/ano-1971/los-hombres-glaciales/index.md,ano-1971,92,020 LOS HOMBRES GLACIALES,True,0,1,conference,7,False
+editorial/saw/qe/004/004-010.md,sitios/quinto-evangelio/content/ano-1971/desapariciones-misteriosas/index.md,ano-1971,93,021 DESAPARICIONES MISTERIOSAS,True,0,1,conference,7,False
+editorial/saw/qe/004/004-011.md,sitios/quinto-evangelio/content/ano-1971/los-hombres-peces/index.md,ano-1971,94,022 LOS HOMBRES PECES,True,0,1,conference,7,False
+editorial/saw/qe/004/004-012.md,sitios/quinto-evangelio/content/ano-1971/materializaciones-psiquicas/index.md,ano-1971,95,023 MATERIALIZACIONES PSÍQUICAS,True,0,1,conference,7,False
+editorial/saw/qe/004/004-013.md,sitios/quinto-evangelio/content/ano-1971/casos-insolitos/index.md,ano-1971,96,024 CASOS INSÓLITOS,True,0,1,conference,7,False
+editorial/saw/qe/004/004-014.md,sitios/quinto-evangelio/content/ano-1971/piedras-o-que/index.md,ano-1971,97,025 ¿PIEDRAS O QUÉ?,True,0,1,conference,7,False
+editorial/saw/qe/004/004-015.md,sitios/quinto-evangelio/content/ano-1971/el-desdoblamiento-astral/index.md,ano-1971,98,026 EL DESDOBLAMIENTO ASTRAL,True,0,1,conference,7,False
+editorial/saw/qe/004/004-016.md,sitios/quinto-evangelio/content/ano-1971/los-hombres-azules/index.md,ano-1971,99,027 LOS HOMBRES AZULES,True,0,1,conference,7,False
+editorial/saw/qe/004/004-017.md,sitios/quinto-evangelio/content/ano-1971/nahuales/index.md,ano-1971,100,028 NAHUALES,True,0,1,conference,7,False
+editorial/saw/qe/004/004-018.md,sitios/quinto-evangelio/content/ano-1971/fenomenos-jinas/index.md,ano-1971,101,029 FENÓMENOS JINAS,True,0,1,conference,7,False
+editorial/saw/qe/004/004-019.md,sitios/quinto-evangelio/content/ano-1971/casos-de-jinas/index.md,ano-1971,102,030 CASOS DE JINAS,True,0,1,conference,7,False
+editorial/saw/qe/004/004-020.md,sitios/quinto-evangelio/content/ano-1971/mensaje-a-los-hermanos-del-s-s-s-de-la-sierra-nevada-de-santa-marta/index.md,ano-1971,103,031 MENSAJE A LOS HERMANOS DEL S.S.S. DE LA SIERRA NEVADA DE SANTA MARTA,True,0,1,conference,11,False
+editorial/saw/qe/004/004-021.md,sitios/quinto-evangelio/content/ano-1971/el-cristo-cosmico/index.md,ano-1971,104,F007 EL CRISTO CÓSMICO,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/004/004-022.md,sitios/quinto-evangelio/content/ano-1971/convocatoria-al-congreso-gnostico-ecumenico-latinoamericano-1972/index.md,ano-1971,105,CONVOCATORIA AL CONGRESO GNÓSTICO ECUMÉNICO LATINOAMERICANO 1972,True,0,1,short-text,5,False
+editorial/saw/qe/004/004-023.md,sitios/quinto-evangelio/content/ano-1971/peligros-para-el-movimiento-gnostico/index.md,ano-1971,106,PELIGROS PARA EL MOVIMIENTO GNÓSTICO,True,0,1,short-text,5,False
+editorial/saw/qe/004/004-024.md,sitios/quinto-evangelio/content/ano-1971/entrevista-de-los-hermanos-salvadorenos/index.md,ano-1971,107,032 ENTREVISTA DE LOS HERMANOS SALVADOREÑOS,True,0,1,conference,10,False
+editorial/saw/qe/004/004-025.md,sitios/quinto-evangelio/content/ano-1971/la-necesidad-de-una-tercera-camara/index.md,ano-1971,108,033 LA NECESIDAD DE UNA TERCERA CÁMARA,True,0,1,conference,10,False
+editorial/saw/qe/004/004-026.md,sitios/quinto-evangelio/content/ano-1971/el-despertar-del-fuego-sagrado/index.md,ano-1971,109,034 EL DESPERTAR DEL FUEGO SAGRADO,True,0,1,conference,18,False
+editorial/saw/qe/004/004-027.md,sitios/quinto-evangelio/content/ano-1971/el-embrion-aureo-y-la-perla-seminal/index.md,ano-1971,110,035 EL EMBRIÓN ÁUREO Y LA PERLA SEMINAL,True,0,1,conference,10,False
+editorial/saw/qe/004/004-028.md,sitios/quinto-evangelio/content/ano-1971/la-onda-dionisiaca-y-el-fuego-sexual/index.md,ano-1971,111,F008 LA ONDA DIONISÍACA Y EL FUEGO SEXUAL,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/004/004-029.md,sitios/quinto-evangelio/content/ano-1971/la-ley-de-la-caida/index.md,ano-1971,112,036 LA LEY DE LA CAÍDA,True,0,1,conference,9,False
+editorial/saw/qe/004/004-030.md,sitios/quinto-evangelio/content/ano-1971/el-yo-psicologico/index.md,ano-1971,113,F009 EL YO PSICOLÓGICO,True,0,1,transcription-fragment,7,False
+editorial/saw/qe/004/004-031.md,sitios/quinto-evangelio/content/ano-1971/los-tres-cerebros-y-como-resolver-problemas/index.md,ano-1971,114,F010 LOS TRES CEREBROS Y COMO RESOLVER PROBLEMAS,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/004/004-032.md,sitios/quinto-evangelio/content/ano-1971/la-onda-dionisiaca/index.md,ano-1971,115,F011 LA ONDA DIONISÍACA,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/004/004-033.md,sitios/quinto-evangelio/content/ano-1971/la-adoracion-a-la-madre-divina-kundalini/index.md,ano-1971,116,F012 LA ADORACIÓN A LA MADRE DIVINA KUNDALINI,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/004/004-034.md,sitios/quinto-evangelio/content/ano-1971/la-necesidad-de-no-devorar-teorias/index.md,ano-1971,117,F013 LA NECESIDAD DE NO DEVORAR TEORÍAS,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/004/004-035.md,sitios/quinto-evangelio/content/ano-1971/los-frios-o-calientes-del-apocalipsis/index.md,ano-1971,118,"F014 LOS ""FRÍOS O CALIENTES"" DEL APOCALIPSIS",True,0,1,transcription-fragment,9,False
+editorial/saw/qe/004/004-036.md,sitios/quinto-evangelio/content/ano-1971/las-siete-iglesias-y-los-misterios-de-la-muerte/index.md,ano-1971,119,F015 LAS SIETE IGLESIAS Y LOS MISTERIOS DE LA MUERTE,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/004/004-037.md,sitios/quinto-evangelio/content/ano-1971/la-dualidad-de-la-manifestacion/index.md,ano-1971,120,F016 LA DUALIDAD DE LA MANIFESTACIÓN,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/004/004-038.md,sitios/quinto-evangelio/content/ano-1971/entrevista-de-eduardo-londono-al-v-m-samael-aun-weor/index.md,ano-1971,121,037 ENTREVISTA DE EDUARDO LONDOÑO AL V. M. SAMAEL AUN WEOR,True,0,1,conference,10,False
+editorial/saw/qe/005/005-001.md,sitios/quinto-evangelio/content/ano-1972/gran-manifiesto-gnostico-1972/_index.md,ano-1972,122,GRAN MANIFIESTO GNÓSTICO 1972,True,0,21,book,5,False
+editorial/saw/qe/005/005-002.md,sitios/quinto-evangelio/content/ano-1972/a-los-hermanos-gnosticos-brasilenos-1/index.md,ano-1972,123,038 A LOS HERMANOS GNÓSTICOS BRASILEÑOS 1,True,0,1,conference,10,False
+editorial/saw/qe/005/005-003.md,sitios/quinto-evangelio/content/ano-1972/a-los-hermanos-gnosticos-brasilenos-2/index.md,ano-1972,124,039 A LOS HERMANOS GNÓSTICOS BRASILEÑOS 2,True,0,1,conference,10,False
+editorial/saw/qe/005/005-004.md,sitios/quinto-evangelio/content/ano-1972/a-los-hermanos-gnosticos-brasilenos-3/index.md,ano-1972,125,040 A LOS HERMANOS GNÓSTICOS BRASILEÑOS 3,True,0,1,conference,10,False
+editorial/saw/qe/005/005-005.md,sitios/quinto-evangelio/content/ano-1972/el-eden-o-paraiso-terrenal/index.md,ano-1972,126,F017 EL EDÉN O PARAÍSO TERRENAL,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/005/005-006.md,sitios/quinto-evangelio/content/ano-1972/grandes-maestros-inmortales/index.md,ano-1972,127,F018 GRANDES MAESTROS INMORTALES,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/005/005-007.md,sitios/quinto-evangelio/content/ano-1972/la-felicidad/index.md,ano-1972,128,F019 LA FELICIDAD,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/005/005-008.md,sitios/quinto-evangelio/content/ano-1972/el-karma/index.md,ano-1972,129,041 EL KARMA,True,0,1,conference,9,False
+editorial/saw/qe/005/005-009.md,sitios/quinto-evangelio/content/ano-1972/la-encarnacion-de-la-verdad/index.md,ano-1972,130,F020 LA ENCARNACIÓN DE LA VERDAD,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/005/005-010.md,sitios/quinto-evangelio/content/ano-1972/la-actitud-correcta-frente-al-karma/index.md,ano-1972,131,F021 LA ACTITUD CORRECTA FRENTE AL KARMA,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/005/005-011.md,sitios/quinto-evangelio/content/ano-1972/la-necesidad-de-liberarnos-de-la-carcel-de-la-mente/index.md,ano-1972,132,F022 LA NECESIDAD DE LIBERARNOS DE LA CÁRCEL DE LA MENTE,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/005/005-012.md,sitios/quinto-evangelio/content/ano-1972/espiritu-y-materia/index.md,ano-1972,133,ESPÍRITU Y MATERIA,True,0,1,short-text,5,False
+editorial/saw/qe/005/005-013.md,sitios/quinto-evangelio/content/ano-1972/la-carne-y-sangre-de-cristo/index.md,ano-1972,134,F023 LA CARNE Y SANGRE DE CRISTO,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/005/005-014.md,sitios/quinto-evangelio/content/ano-1972/el-rasgo-psicologico-caracteristico-particular/index.md,ano-1972,135,042 EL RASGO PSICOLÓGICO CARACTERÍSTICO PARTICULAR,True,0,1,conference,9,False
+editorial/saw/qe/005/005-015.md,sitios/quinto-evangelio/content/ano-1972/los-cuerpos-lunares-o-ego/index.md,ano-1972,136,043 LOS CUERPOS LUNARES O EGO,True,0,1,conference,9,False
+editorial/saw/qe/005/005-016.md,sitios/quinto-evangelio/content/ano-1972/los-siete-rayos-planetarios/index.md,ano-1972,137,044 LOS SIETE RAYOS PLANETARIOS,True,0,1,conference,9,False
+editorial/saw/qe/005/005-017.md,sitios/quinto-evangelio/content/ano-1972/el-desarrollo-de-los-poderes-ocultos/index.md,ano-1972,138,F024 EL DESARROLLO DE LOS PODERES OCULTOS,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/005/005-018.md,sitios/quinto-evangelio/content/ano-1972/los-dioses-tambien-se-equivocan/index.md,ano-1972,139,F025 LOS DIOSES TAMBIÉN SE EQUIVOCAN,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/005/005-019.md,sitios/quinto-evangelio/content/ano-1972/la-conciencia/index.md,ano-1972,140,F026 LA CONCIENCIA,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/005/005-020.md,sitios/quinto-evangelio/content/ano-1972/el-tiempo/index.md,ano-1972,141,F027 EL TIEMPO,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/005/005-021.md,sitios/quinto-evangelio/content/ano-1972/los-super-esfuerzos-conscientes/index.md,ano-1972,142,045 LOS SUPER-ESFUERZOS CONSCIENTES,True,0,1,conference,9,False
+editorial/saw/qe/005/005-022.md,sitios/quinto-evangelio/content/ano-1972/el-hijo-del-hombre/index.md,ano-1972,143,046 EL HIJO DEL HOMBRE,True,0,1,conference,9,False
+editorial/saw/qe/005/005-023.md,sitios/quinto-evangelio/content/ano-1972/el-diluvio-universal/index.md,ano-1972,144,EL DILUVIO UNIVERSAL,True,0,1,short-text,5,False
+editorial/saw/qe/005/005-024.md,sitios/quinto-evangelio/content/ano-1972/la-profecia-sobre-la-colision-de-mundos/index.md,ano-1972,145,047 LA PROFECÍA SOBRE LA COLISIÓN DE MUNDOS,True,0,1,conference,7,False
+editorial/saw/qe/005/005-025.md,sitios/quinto-evangelio/content/ano-1972/el-maestro-aconseja-disolver-el-ego/index.md,ano-1972,146,048 EL MAESTRO ACONSEJA DISOLVER EL EGO,True,0,1,conference,7,False
+editorial/saw/qe/005/005-026.md,sitios/quinto-evangelio/content/ano-1972/la-cristalizacion-de-las-tres-fuerzas-primarias/index.md,ano-1972,147,049 LA CRISTALIZACIÓN DE LAS TRES FUERZAS PRIMARIAS,True,0,1,conference,7,False
+editorial/saw/qe/005/005-027.md,sitios/quinto-evangelio/content/ano-1972/el-maestro-habla-sobre-la-realidad-del-celibato/index.md,ano-1972,148,050 EL MAESTRO HABLA SOBRE LA REALIDAD DEL CELIBATO,True,0,1,conference,7,False
+editorial/saw/qe/005/005-028.md,sitios/quinto-evangelio/content/ano-1972/la-creacion-de-los-cuerpos-existenciales-superiores-del-ser/index.md,ano-1972,149,051 LA CREACIÓN DE LOS CUERPOS EXISTENCIALES SUPERIORES DEL SER,True,0,1,conference,7,False
+editorial/saw/qe/005/005-029.md,sitios/quinto-evangelio/content/ano-1972/los-misticos-enclaustrados-nunca-desintegran-el-ego/index.md,ano-1972,150,052 LOS MÍSTICOS ENCLAUSTRADOS NUNCA DESINTEGRAN EL EGO,True,0,1,conference,7,False
+editorial/saw/qe/005/005-030.md,sitios/quinto-evangelio/content/ano-1972/los-habitantes-del-sol/index.md,ano-1972,151,053 LOS HABITANTES DEL SOL,True,0,1,conference,7,False
+editorial/saw/qe/005/005-031.md,sitios/quinto-evangelio/content/ano-1972/el-maestro-habla-de-los-habitantes-del-sol-sirio/index.md,ano-1972,152,054 EL MAESTRO HABLA DE LOS HABITANTES DEL SOL SIRIO,True,0,1,conference,7,False
+editorial/saw/qe/005/005-032.md,sitios/quinto-evangelio/content/ano-1972/el-maestro-habla-sobre-la-proyeccion-de-la-mente/index.md,ano-1972,153,055 EL MAESTRO HABLA SOBRE LA PROYECCIÓN DE LA MENTE,True,0,1,conference,7,False
+editorial/saw/qe/005/005-033.md,sitios/quinto-evangelio/content/ano-1972/clave-de-sol-normas-para-el-despertar-de-la-conciencia/index.md,ano-1972,154,"056 CLAVE DE SOL (""NORMAS PARA EL DESPERTAR DE LA CONCIENCIA"")",True,0,1,conference,7,False
+editorial/saw/qe/005/005-034.md,sitios/quinto-evangelio/content/ano-1972/la-ley-del-trogo-autoegocratico-cosmico-comun/index.md,ano-1972,155,057 LA LEY DEL TROGO AUTOEGOCRÁTICO CÓSMICO COMÚN,True,0,1,conference,7,False
+editorial/saw/qe/005/005-035.md,sitios/quinto-evangelio/content/ano-1972/ejercicios-para-rejuvenecer-y-curarse-de-toda-enfermedad/index.md,ano-1972,156,058 EJERCICIOS PARA REJUVENECER Y CURARSE DE TODA ENFERMEDAD,True,0,1,conference,7,False
+editorial/saw/qe/005/005-036.md,sitios/quinto-evangelio/content/ano-1972/vajroli-mudra-transmutacion-para-solteros/index.md,ano-1972,157,059 VAJROLI MUDRA (TRANSMUTACIÓN PARA SOLTEROS),True,0,1,conference,7,False
+editorial/saw/qe/005/005-037.md,sitios/quinto-evangelio/content/ano-1972/la-energia-sexual-en-las-diferentes-edades-del-hombre/index.md,ano-1972,158,060 LA ENERGÍA SEXUAL EN LAS DIFERENTES EDADES DEL HOMBRE,True,0,1,conference,7,False
+editorial/saw/qe/005/005-038.md,sitios/quinto-evangelio/content/ano-1972/el-maestro-habla-de-varios-aspectos-en-segunda-camara-lectura-del-acta/index.md,ano-1972,159,061 EL MAESTRO HABLA DE VARIOS ASPECTOS EN SEGUNDA CÁMARA (LECTURA DEL ACTA),True,0,1,conference,7,False
+editorial/saw/qe/005/005-039.md,sitios/quinto-evangelio/content/ano-1972/ley-de-la-transmigracion-de-las-almas/index.md,ano-1972,160,062 LEY DE LA TRANSMIGRACIÓN DE LAS ALMAS,True,0,1,conference,7,False
+editorial/saw/qe/005/005-040.md,sitios/quinto-evangelio/content/ano-1972/la-madre-divina-kundalini/index.md,ano-1972,161,063 LA MADRE DIVINA KUNDALINI,True,0,1,conference,7,False
+editorial/saw/qe/005/005-041.md,sitios/quinto-evangelio/content/ano-1972/la-edad-de-acuario-y-los-misterios-del-sexo/index.md,ano-1972,162,064 LA EDAD DE ACUARIO Y LOS MISTERIOS DEL SEXO,True,0,1,conference,10,False
+editorial/saw/qe/005/005-042.md,sitios/quinto-evangelio/content/ano-1972/la-necesidad-de-comprender-nuestra-mente/index.md,ano-1972,163,065 LA NECESIDAD DE COMPRENDER NUESTRA MENTE,True,0,1,conference,9,False
+editorial/saw/qe/005/005-043.md,sitios/quinto-evangelio/content/ano-1972/el-tantrismo-blanco/index.md,ano-1972,164,F028 EL TANTRISMO BLANCO,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/005/005-044.md,sitios/quinto-evangelio/content/ano-1972/los-49-niveles-subconscientes-de-la-mente/index.md,ano-1972,165,F029 LOS 49 NIVELES SUBCONSCIENTES DE LA MENTE,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/005/005-045.md,sitios/quinto-evangelio/content/ano-1972/la-pentalfa-o-pentagrama-esoterico/index.md,ano-1972,166,F030 LA PENTALFA O PENTAGRAMA ESOTÉRICO,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/005/005-046.md,sitios/quinto-evangelio/content/ano-1972/llamado-al-despertar/index.md,ano-1972,167,F031 LLAMADO AL DESPERTAR,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/005/005-047.md,sitios/quinto-evangelio/content/ano-1972/la-ciencia-de-la-meditacion/index.md,ano-1972,168,066 LA CIENCIA DE LA MEDITACIÓN,True,0,1,conference,7,False
+editorial/saw/qe/005/005-048.md,sitios/quinto-evangelio/content/ano-1972/sobre-la-auto-observacion/index.md,ano-1972,169,F032 SOBRE LA AUTO-OBSERVACIÓN,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/005/005-049.md,sitios/quinto-evangelio/content/ano-1972/la-prision-mental-y-como-la-verdad-nos-libera-de-ella/index.md,ano-1972,170,067 LA PRISIÓN MENTAL Y CÓMO LA VERDAD NOS LIBERA DE ELLA,True,0,1,conference,9,False
+editorial/saw/qe/005/005-050.md,sitios/quinto-evangelio/content/ano-1972/el-infierno/index.md,ano-1972,171,068 EL INFIERNO,True,0,1,conference,7,False
+editorial/saw/qe/005/005-051.md,sitios/quinto-evangelio/content/ano-1972/religiones-fundadas-por-tenebrosos/index.md,ano-1972,172,069 RELIGIONES FUNDADAS POR TENEBROSOS,True,0,1,conference,9,False
+editorial/saw/qe/005/005-052.md,sitios/quinto-evangelio/content/ano-1972/conveniencia-de-los-ejercicios-de-lamaseria/index.md,ano-1972,173,070 CONVENIENCIA DE LOS EJERCICIOS DE LAMASERÍA,True,0,1,conference,9,False
+editorial/saw/qe/005/005-053.md,sitios/quinto-evangelio/content/ano-1972/los-tres-aspectos-del-interior-de-la-tierra/index.md,ano-1972,174,071 LOS TRES ASPECTOS DEL INTERIOR DE LA TIERRA,True,0,1,conference,7,False
+editorial/saw/qe/005/005-054.md,sitios/quinto-evangelio/content/ano-1972/los-siete-cosmos/index.md,ano-1972,175,072 LOS SIETE COSMOS,True,0,1,conference,7,False
+editorial/saw/qe/005/005-055.md,sitios/quinto-evangelio/content/ano-1972/monadas-y-esencias/index.md,ano-1972,176,073 MÓNADAS Y ESENCIAS,True,0,1,conference,7,False
+editorial/saw/qe/005/005-056.md,sitios/quinto-evangelio/content/ano-1972/primer-circulo-infernal-o-de-la-luna/index.md,ano-1972,177,074 PRIMER CÍRCULO INFERNAL O DE LA LUNA,True,0,1,conference,7,False
+editorial/saw/qe/005/005-057.md,sitios/quinto-evangelio/content/ano-1972/la-cola-de-satan/index.md,ano-1972,178,F033 LA COLA DE SATÁN,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/005/005-058.md,sitios/quinto-evangelio/content/ano-1972/la-ley-del-tres-y-las-dos-grandes-catastrofes/index.md,ano-1972,179,075 LA LEY DEL TRES Y LAS DOS GRANDES CATÁSTROFES,True,0,1,conference,9,False
+editorial/saw/qe/005/005-059.md,sitios/quinto-evangelio/content/ano-1972/sobre-el-vajroli-mudra/index.md,ano-1972,180,F034 SOBRE EL VAJROLI-MUDRA,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/005/005-060.md,sitios/quinto-evangelio/content/ano-1972/segundo-circulo-infernal-o-de-mercurio/index.md,ano-1972,181,076 SEGUNDO CÍRCULO INFERNAL O DE MERCURIO,True,0,1,conference,7,False
+editorial/saw/qe/005/005-061.md,sitios/quinto-evangelio/content/ano-1972/tercer-circulo-dantesco-o-inferior-de-venus/index.md,ano-1972,182,077 TERCER CÍRCULO DANTESCO O INFERIOR DE VENUS,True,0,1,conference,7,False
+editorial/saw/qe/005/005-062.md,sitios/quinto-evangelio/content/ano-1972/cuarto-circulo-infernal-o-esfera-sumergida-del-sol/index.md,ano-1972,183,078 CUARTO CÍRCULO INFERNAL O ESFERA SUMERGIDA DEL SOL,True,0,1,conference,7,False
+editorial/saw/qe/005/005-063.md,sitios/quinto-evangelio/content/ano-1972/quinto-circulo-dantesco-o-esfera-sumergida-de-marte/index.md,ano-1972,184,079 QUINTO CÍRCULO DANTESCO O ESFERA SUMERGIDA DE MARTE,True,0,1,conference,7,False
+editorial/saw/qe/005/005-064.md,sitios/quinto-evangelio/content/ano-1972/la-segunda-joya-del-dragon-amarillo/index.md,ano-1972,185,080 LA SEGUNDA JOYA DEL DRAGÓN AMARILLO,True,0,1,conference,7,False
+editorial/saw/qe/005/005-065.md,sitios/quinto-evangelio/content/ano-1972/la-mision-de-h-p-blavatsky/index.md,ano-1972,186,F035 LA MISIÓN DE H. P. BLAVATSKY,True,0,1,transcription-fragment,7,False
+editorial/saw/qe/005/005-066.md,sitios/quinto-evangelio/content/ano-1972/la-cristalizacion-de-las-tres-fuerzas-primarias-la-cristalizacion-del-santo-triamazikamno/index.md,ano-1972,187,081 LA CRISTALIZACIÓN DE LAS TRES FUERZAS PRIMARIAS,True,0,1,conference,10,False
+editorial/saw/qe/005/005-067.md,sitios/quinto-evangelio/content/ano-1972/la-salud-del-cuerpo-fisico/index.md,ano-1972,188,082 LA SALUD DEL CUERPO FÍSICO,True,0,1,conference,10,False
+editorial/saw/qe/005/005-068.md,sitios/quinto-evangelio/content/ano-1972/preparativos-para-un-nuevo-exodo/index.md,ano-1972,189,083 PREPARATIVOS PARA UN NUEVO ÉXODO,True,0,1,conference,9,False
+editorial/saw/qe/005/005-069.md,sitios/quinto-evangelio/content/ano-1972/sexta-esfera-sumergida-o-de-jupiter/index.md,ano-1972,190,084 SEXTA ESFERA SUMERGIDA O DE JÚPITER,True,0,1,conference,7,False
+editorial/saw/qe/005/005-070.md,sitios/quinto-evangelio/content/ano-1972/septima-esfera-sumergida-o-de-saturno/index.md,ano-1972,191,085 SÉPTIMA ESFERA SUMERGIDA O DE SATURNO,True,0,1,conference,7,False
+editorial/saw/qe/005/005-071.md,sitios/quinto-evangelio/content/ano-1972/octavo-circulo-dantesco-o-de-urano/index.md,ano-1972,192,086 OCTAVO CIRCULO DANTESCO O DE URANO,True,0,1,conference,7,False
+editorial/saw/qe/005/005-072.md,sitios/quinto-evangelio/content/ano-1972/noveno-circulo-dantesco-o-de-neptuno/index.md,ano-1972,193,087 NOVENO CÍRCULO DANTESCO O DE NEPTUNO,True,0,1,conference,7,False
+editorial/saw/qe/005/005-073.md,sitios/quinto-evangelio/content/ano-1972/el-movimiento-continuo/index.md,ano-1972,194,088 EL MOVIMIENTO CONTINUO,True,0,1,conference,7,False
+editorial/saw/qe/005/005-074.md,sitios/quinto-evangelio/content/ano-1972/la-disolucion-del-ego/index.md,ano-1972,195,089 LA DISOLUCIÓN DEL EGO,True,0,1,conference,7,False
+editorial/saw/qe/005/005-075.md,sitios/quinto-evangelio/content/ano-1972/el-diablo/index.md,ano-1972,196,090 EL DIABLO,True,0,1,conference,7,False
+editorial/saw/qe/005/005-076.md,sitios/quinto-evangelio/content/ano-1972/el-dragon-de-las-tinieblas/index.md,ano-1972,197,091 EL DRAGÓN DE LAS TINIEBLAS,True,0,1,conference,7,False
+editorial/saw/qe/006/006-001.md,sitios/quinto-evangelio/content/ano-1973/criptas-subterraneas/index.md,ano-1973,198,092 CRIPTAS SUBTERRÁNEAS,True,0,1,conference,7,False
+editorial/saw/qe/006/006-002.md,sitios/quinto-evangelio/content/ano-1973/guerra-en-los-cielos/index.md,ano-1973,199,093 GUERRA EN LOS CIELOS,True,0,1,conference,7,False
+editorial/saw/qe/006/006-003.md,sitios/quinto-evangelio/content/ano-1973/la-ley-del-eterno-retorno/index.md,ano-1973,200,094 LA LEY DEL ETERNO RETORNO,True,0,1,conference,7,False
+editorial/saw/qe/006/006-004.md,sitios/quinto-evangelio/content/ano-1973/la-reencarnacion/index.md,ano-1973,201,095 LA REENCARNACIÓN,True,0,1,conference,7,False
+editorial/saw/qe/006/006-005.md,sitios/quinto-evangelio/content/ano-1973/la-ley-de-recurrencia/index.md,ano-1973,202,096 LA LEY DE RECURRENCIA,True,0,1,conference,7,False
+editorial/saw/qe/006/006-006.md,sitios/quinto-evangelio/content/ano-1973/el-caracol-de-la-existencia/index.md,ano-1973,203,097 EL CARACOL DE LA EXISTENCIA,True,0,1,conference,7,False
+editorial/saw/qe/006/006-007.md,sitios/quinto-evangelio/content/ano-1973/los-negocios/index.md,ano-1973,204,098 LOS NEGOCIOS,True,0,1,conference,7,False
+editorial/saw/qe/006/006-008.md,sitios/quinto-evangelio/content/ano-1973/la-experiencia-directa/index.md,ano-1973,205,099 LA EXPERIENCIA DIRECTA,True,0,1,conference,7,False
+editorial/saw/qe/006/006-009.md,sitios/quinto-evangelio/content/ano-1973/la-llave-maestra/index.md,ano-1973,206,100 LA LLAVE MAESTRA,True,0,1,conference,10,False
+editorial/saw/qe/006/006-010.md,sitios/quinto-evangelio/content/ano-1973/las-dos-formas-de-vivir-el-apocalipsis/index.md,ano-1973,207,101 LAS DOS FORMAS DE VIVIR EL APOCALIPSIS,True,0,1,conference,10,False
+editorial/saw/qe/006/006-011.md,sitios/quinto-evangelio/content/ano-1973/el-embrion-aureo/index.md,ano-1973,208,F036 EL EMBRIÓN ÁUREO,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/006/006-012.md,sitios/quinto-evangelio/content/ano-1973/la-resolucion-de-auto-iniciarse/index.md,ano-1973,209,102 LA RESOLUCIÓN DE AUTO-INICIARSE,True,0,1,conference,9,False
+editorial/saw/qe/006/006-013.md,sitios/quinto-evangelio/content/ano-1973/la-piedra-filosofal/index.md,ano-1973,210,103 LA PIEDRA FILOSOFAL,True,0,1,conference,9,False
+editorial/saw/qe/006/006-014.md,sitios/quinto-evangelio/content/ano-1973/las-cuatro-edades-de-la-raza-aria/index.md,ano-1973,211,104 LAS CUATRO EDADES DE LA RAZA ARIA,True,0,1,conference,9,False
+editorial/saw/qe/006/006-015.md,sitios/quinto-evangelio/content/ano-1973/preguntas-de-efrain-villegas-quintero/index.md,ano-1973,212,105 PREGUNTAS DE EFRAÍN VILLEGAS QUINTERO,True,0,1,conference,10,False
+editorial/saw/qe/006/006-016.md,sitios/quinto-evangelio/content/ano-1973/la-necesidad-de-encarnar-la-verdad/index.md,ano-1973,213,F037 LA NECESIDAD DE ENCARNAR LA VERDAD,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/006/006-017.md,sitios/quinto-evangelio/content/ano-1973/la-sabiduria-del-ser/index.md,ano-1973,214,F038 LA SABIDURÍA DEL SER,True,0,1,transcription-fragment,11,False
+editorial/saw/qe/006/006-018.md,sitios/quinto-evangelio/content/ano-1973/la-gran-obra-del-padre/index.md,ano-1973,215,F039 LA GRAN OBRA DEL PADRE,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/006/006-019.md,sitios/quinto-evangelio/content/ano-1973/la-fraternidad-universal/index.md,ano-1973,216,F040 LA FRATERNIDAD UNIVERSAL,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/006/006-020.md,sitios/quinto-evangelio/content/ano-1973/la-bella-helena/index.md,ano-1973,217,106 LA BELLA HELENA,True,0,1,conference,10,False
+editorial/saw/qe/006/006-021.md,sitios/quinto-evangelio/content/ano-1973/el-binario-serpentino/index.md,ano-1973,218,107 EL BINARIO SERPENTINO,True,0,1,conference,9,False
+editorial/saw/qe/006/006-022.md,sitios/quinto-evangelio/content/ano-1973/la-cuarta-dimension-y-la-ciencia-jinas/index.md,ano-1973,219,F041 LA CUARTA DIMENSIÓN Y LA CIENCIA JINAS,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/006/006-023.md,sitios/quinto-evangelio/content/ano-1973/el-calendario-azteca/index.md,ano-1973,220,108 EL CALENDARIO AZTECA,True,0,1,conference,7,False
+editorial/saw/qe/006/006-024.md,sitios/quinto-evangelio/content/ano-1973/psicologia-revolucionaria/index.md,ano-1973,221,109 PSICOLOGÍA REVOLUCIONARIA,True,0,1,conference,10,False
+editorial/saw/qe/006/006-025.md,sitios/quinto-evangelio/content/ano-1973/juventudes-gnosticas-revolucionarias/index.md,ano-1973,222,JUVENTUDES GNÓSTICAS REVOLUCIONARIAS,True,0,1,short-text,5,False
+editorial/saw/qe/006/006-026.md,sitios/quinto-evangelio/content/ano-1973/las-siete-razas/index.md,ano-1973,223,110 LAS SIETE RAZAS,True,0,1,conference,10,False
+editorial/saw/qe/006/006-027.md,sitios/quinto-evangelio/content/ano-1973/la-edad-de-hierro-de-la-raza-atlante/index.md,ano-1973,224,F042 LA EDAD DE HIERRO DE LA RAZA ATLANTE,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/006/006-028.md,sitios/quinto-evangelio/content/ano-1973/la-uncion-gnostica-y-la-era-de-acuario/index.md,ano-1973,225,111 LA UNCIÓN GNÓSTICA Y LA ERA DE ACUARIO,True,0,1,conference,10,False
+editorial/saw/qe/006/006-029.md,sitios/quinto-evangelio/content/ano-1973/los-32-senderos-del-arbol-sefirotico/index.md,ano-1973,226,112 LOS 32 SENDEROS DEL ÁRBOL SEFIRÓTICO,True,0,1,conference,9,False
+editorial/saw/qe/006/006-030.md,sitios/quinto-evangelio/content/ano-1973/el-diablo-y-lucifer/index.md,ano-1973,227,113 EL DIABLO Y LUCIFER,True,0,1,conference,10,False
+editorial/saw/qe/006/006-031.md,sitios/quinto-evangelio/content/ano-1973/la-accion-consciente/index.md,ano-1973,228,114 LA ACCIÓN CONSCIENTE,True,0,1,conference,11,False
+editorial/saw/qe/007/007-001.md,sitios/quinto-evangelio/content/ano-1974/extraterrestres-y-apocalipsis/index.md,ano-1974,229,115 EXTRATERRESTRES Y APOCALIPSIS,True,0,1,conference,10,False
+editorial/saw/qe/007/007-002.md,sitios/quinto-evangelio/content/ano-1974/libro-enigma-femenino-de-beatriz-marta-d-andreis/index.md,ano-1974,230,"116 LIBRO «ENIGMA FEMENINO», DE BEATRIZ MARTA D'ANDREIS",True,0,1,conference,10,False
+editorial/saw/qe/007/007-003.md,sitios/quinto-evangelio/content/ano-1974/el-hijo-del-hombre/index.md,ano-1974,231,117 EL HIJO DEL HOMBRE,True,0,1,conference,9,False
+editorial/saw/qe/007/007-004.md,sitios/quinto-evangelio/content/ano-1974/las-cuatro-edades-de-la-raza-aria/index.md,ano-1974,232,118 LAS CUATRO EDADES DE LA RAZA ARIA,True,0,1,conference,9,False
+editorial/saw/qe/007/007-005.md,sitios/quinto-evangelio/content/ano-1974/las-tres-montanas/index.md,ano-1974,233,119 LAS TRES MONTAÑAS,True,0,1,conference,9,False
+editorial/saw/qe/007/007-006.md,sitios/quinto-evangelio/content/ano-1974/el-pacto-del-bautismo-y-la-resurreccion-de-los-muertos/index.md,ano-1974,234,F043 EL PACTO DEL BAUTISMO Y LA RESURRECCIÓN DE LOS MUERTOS,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/007/007-007.md,sitios/quinto-evangelio/content/ano-1974/respuestas-a-pedro-ayala-y-otros-misioneros/index.md,ano-1974,235,120 RESPUESTAS A PEDRO AYALA Y OTROS MISIONEROS,True,0,1,conference,9,False
+editorial/saw/qe/007/007-008.md,sitios/quinto-evangelio/content/ano-1974/inquietudes-de-las-damas-gnosticas/index.md,ano-1974,236,INQUIETUDES DE LAS DAMAS GNÓSTICAS,True,0,1,short-text,6,False
+editorial/saw/qe/007/007-009.md,sitios/quinto-evangelio/content/ano-1974/el-arbol-de-la-vida/index.md,ano-1974,237,121 EL ÁRBOL DE LA VIDA,True,0,1,conference,11,False
+editorial/saw/qe/007/007-010.md,sitios/quinto-evangelio/content/ano-1974/el-hombre-y-la-razon/index.md,ano-1974,238,122 EL HOMBRE Y LA RAZÓN,True,0,1,conference,10,False
+editorial/saw/qe/007/007-011.md,sitios/quinto-evangelio/content/ano-1974/entrevista-de-efrain-villegas-quintero/index.md,ano-1974,239,123 ENTREVISTA DE EFRAÍN VILLEGAS QUINTERO,True,0,1,conference,10,False
+editorial/saw/qe/007/007-012.md,sitios/quinto-evangelio/content/ano-1974/el-animal-intelectual-el-hombre-y-el-superhombre/index.md,ano-1974,240,"124 EL ANIMAL INTELECTUAL, EL HOMBRE, Y EL SUPERHOMBRE",True,0,1,conference,9,False
+editorial/saw/qe/007/007-013.md,sitios/quinto-evangelio/content/ano-1974/la-semana-santa-cosmica/index.md,ano-1974,241,125 LA SEMANA SANTA CÓSMICA,True,0,1,conference,10,False
+editorial/saw/qe/007/007-014.md,sitios/quinto-evangelio/content/ano-1974/ciencia-y-conciencia/index.md,ano-1974,242,F044 CIENCIA Y CONCIENCIA,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/007/007-015.md,sitios/quinto-evangelio/content/ano-1974/la-transformacion-de-las-impresiones/index.md,ano-1974,243,126 LA TRANSFORMACIÓN DE LAS IMPRESIONES,True,0,1,conference,10,False
+editorial/saw/qe/007/007-016.md,sitios/quinto-evangelio/content/ano-1974/levitaciones-misticas-trascendentales/index.md,ano-1974,244,F045 LEVITACIONES MÍSTICAS TRASCENDENTALES,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/007/007-017.md,sitios/quinto-evangelio/content/ano-1974/la-necesidad-de-trascender-la-mente/index.md,ano-1974,245,F046 LA NECESIDAD DE TRASCENDER LA MENTE,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/007/007-018.md,sitios/quinto-evangelio/content/ano-1974/maestro-que-opina-usted-sobre-la-juventud-gnostica/index.md,ano-1974,246,"""MAESTRO ¿QUE OPINA USTED SOBRE LA JUVENTUD GNÓSTICA?""",True,0,1,short-text,5,False
+editorial/saw/qe/007/007-019.md,sitios/quinto-evangelio/content/ano-1974/el-cuerpo-de-doctrina-lo-traigo-de-los-mundos-superiores/index.md,ano-1974,247,EL CUERPO DE DOCTRINA LO TRAIGO DE LOS MUNDOS SUPERIORES,True,0,1,short-text,5,False
+editorial/saw/qe/007/007-020.md,sitios/quinto-evangelio/content/ano-1974/la-necesidad-de-aprender-a-vivir/index.md,ano-1974,248,127 LA NECESIDAD DE APRENDER A VIVIR,True,0,1,conference,10,False
+editorial/saw/qe/007/007-021.md,sitios/quinto-evangelio/content/ano-1974/el-final-de-los-hijos-del-quinto-sol/index.md,ano-1974,249,128 EL FINAL DE LOS HIJOS DEL QUINTO SOL,True,0,1,conference,10,False
+editorial/saw/qe/007/007-022.md,sitios/quinto-evangelio/content/ano-1974/el-camino-de-la-autorrealizacion-intima-del-ser-desde-el-punto-de-vista-gnostico/index.md,ano-1974,250,129 EL CAMINO DE LA AUTORREALIZACIÓN ÍNTIMA DEL SER DESDE EL PUNTO DE VISTA GNÓSTICO,True,0,1,conference,10,False
+editorial/saw/qe/007/007-023.md,sitios/quinto-evangelio/content/ano-1974/la-involucion-humana/index.md,ano-1974,251,F047 LA INVOLUCIÓN HUMANA,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/007/007-024.md,sitios/quinto-evangelio/content/ano-1974/las-proyecciones-de-la-mente/index.md,ano-1974,252,130 LAS PROYECCIONES DE LA MENTE,True,0,1,conference,7,False
+editorial/saw/qe/007/007-025.md,sitios/quinto-evangelio/content/ano-1974/las-conjuraciones-y-otros-temas-liturgicos/index.md,ano-1974,253,131 LAS CONJURACIONES Y OTROS TEMAS LITÚRGICOS,True,0,1,conference,9,False
+editorial/saw/qe/007/007-026.md,sitios/quinto-evangelio/content/ano-1974/simbolismo-del-arca-de-noe/index.md,ano-1974,254,F048 SIMBOLISMO DEL ARCA DE NOÉ,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/007/007-027.md,sitios/quinto-evangelio/content/ano-1974/orientaciones-institucionales/index.md,ano-1974,255,132 ORIENTACIONES INSTITUCIONALES,True,0,1,conference,10,False
+editorial/saw/qe/007/007-028.md,sitios/quinto-evangelio/content/ano-1974/la-atlantida/index.md,ano-1974,256,133 LA ATLÁNTIDA,True,0,1,conference,7,False
+editorial/saw/qe/007/007-029.md,sitios/quinto-evangelio/content/ano-1974/psicologia-experimental/index.md,ano-1974,257,F049 PSICOLOGÍA EXPERIMENTAL,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/007/007-030.md,sitios/quinto-evangelio/content/ano-1974/el-arbol-de-la-vida-fragmento/index.md,ano-1974,258,F050 EL ÁRBOL DE LA VIDA,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/007/007-031.md,sitios/quinto-evangelio/content/ano-1974/los-planetas-metalicos-de-la-alquimia/index.md,ano-1974,259,134 LOS PLANETAS METÁLICOS DE LA ALQUIMIA,True,0,1,conference,7,False
+editorial/saw/qe/007/007-032.md,sitios/quinto-evangelio/content/ano-1974/mensaje-a-la-juventud-gnostica/index.md,ano-1974,260,135 MENSAJE A LA JUVENTUD GNÓSTICA,True,0,1,conference,10,False
+editorial/saw/qe/007/007-033.md,sitios/quinto-evangelio/content/ano-1974/la-piedra-filosofal/index.md,ano-1974,261,136 LA PIEDRA FILOSOFAL,True,0,1,conference,10,False
+editorial/saw/qe/007/007-034.md,sitios/quinto-evangelio/content/ano-1974/entrevista-de-fernando-villa-uribe/index.md,ano-1974,262,137 ENTREVISTA DE FERNANDO VILLA URIBE,True,0,1,conference,10,False
+editorial/saw/qe/007/007-035.md,sitios/quinto-evangelio/content/ano-1974/el-cuerpo-astral/index.md,ano-1974,263,EL CUERPO ASTRAL,True,0,1,short-text,5,False
+editorial/saw/qe/007/007-036.md,sitios/quinto-evangelio/content/ano-1974/pranayama-y-gimnasia-de-lamaseria/index.md,ano-1974,264,F051 PRANAYAMA Y GIMNASIA DE LAMASERÍA,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/007/007-037.md,sitios/quinto-evangelio/content/ano-1974/indicaciones-a-los-hermanos-del-santuario-gk/index.md,ano-1974,265,138 INDICACIONES A LOS HERMANOS DEL SANTUARIO GK,True,0,1,conference,9,False
+editorial/saw/qe/008/008-001.md,sitios/quinto-evangelio/content/ano-1975/preguntas-de-fernando-villa-al-maestro/index.md,ano-1975,266,139 PREGUNTAS DE FERNANDO VILLA AL MAESTRO,True,0,1,conference,9,False
+editorial/saw/qe/008/008-002.md,sitios/quinto-evangelio/content/ano-1975/el-agnosthos-theos/index.md,ano-1975,267,140 EL AGNOSTHOS THEOS,True,0,1,conference,10,False
+editorial/saw/qe/008/008-003.md,sitios/quinto-evangelio/content/ano-1975/el-sol-esta-habitado/index.md,ano-1975,268,F052 EL SOL ESTÁ HABITADO,True,0,1,transcription-fragment,6,False
+editorial/saw/qe/008/008-004.md,sitios/quinto-evangelio/content/ano-1975/como-hacer-la-luz-dentro-de-nosotros-mismos/index.md,ano-1975,269,141 COMO HACER LA LUZ DENTRO DE NOSOTROS MISMOS,True,0,1,conference,10,False
+editorial/saw/qe/008/008-005.md,sitios/quinto-evangelio/content/ano-1975/es-necesario-disolver-para-poder-cristalizar/index.md,ano-1975,270,ES NECESARIO DISOLVER PARA PODER CRISTALIZAR,True,0,1,short-text,5,False
+editorial/saw/qe/008/008-006.md,sitios/quinto-evangelio/content/ano-1975/espiritualismo-materialismo-y-dialectica/index.md,ano-1975,271,"142 ESPIRITUALISMO, MATERIALISMO Y DIALÉCTICA",True,0,1,conference,10,False
+editorial/saw/qe/008/008-007.md,sitios/quinto-evangelio/content/ano-1975/mensaje-a-las-hermanas-de-venezuela/index.md,ano-1975,272,F053 MENSAJE A LAS HERMANAS DE VENEZUELA,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/008/008-008.md,sitios/quinto-evangelio/content/ano-1975/cornelio-agrippa-y-la-piedra-filosofal/index.md,ano-1975,273,143 CORNELIO AGRIPPA Y LA PIEDRA FILOSOFAL,True,0,1,conference,9,False
+editorial/saw/qe/008/008-009.md,sitios/quinto-evangelio/content/ano-1975/platica-con-los-hermanos-de-zulia-venezuela/index.md,ano-1975,274,144 PLÁTICA CON LOS HERMANOS DE ZULIA (VENEZUELA),True,0,1,conference,10,False
+editorial/saw/qe/008/008-010.md,sitios/quinto-evangelio/content/ano-1975/platica-sobre-cain-y-abel/index.md,ano-1975,275,F054 PLÁTICA SOBRE CAÍN Y ABEL,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/008/008-011.md,sitios/quinto-evangelio/content/ano-1975/fe-presentimiento-e-intuicion/index.md,ano-1975,276,"F055 FE, PRESENTIMIENTO E INTUICIÓN",True,0,1,transcription-fragment,10,False
+editorial/saw/qe/008/008-012.md,sitios/quinto-evangelio/content/ano-1975/la-doctrina-de-los-muchos-yoes/index.md,ano-1975,277,145 LA DOCTRINA DE LOS MUCHOS YOES,True,0,1,conference,11,False
+editorial/saw/qe/008/008-013.md,sitios/quinto-evangelio/content/ano-1975/nuestro-pais-psicologico/index.md,ano-1975,278,146 NUESTRO PAÍS PSICOLÓGICO,True,0,1,conference,10,False
+editorial/saw/qe/008/008-014.md,sitios/quinto-evangelio/content/ano-1975/el-embotellamiento-de-la-esencia/index.md,ano-1975,279,147 EL EMBOTELLAMIENTO DE LA ESENCIA,True,0,1,conference,10,False
+editorial/saw/qe/008/008-015.md,sitios/quinto-evangelio/content/ano-1975/la-unidad-del-hombre/index.md,ano-1975,280,148 LA UNIDAD DEL HOMBRE,True,0,1,conference,10,False
+editorial/saw/qe/008/008-016.md,sitios/quinto-evangelio/content/ano-1975/el-poder-de-la-energia-creadora/index.md,ano-1975,281,149 EL PODER DE LA ENERGÍA CREADORA,True,0,1,conference,10,False
+editorial/saw/qe/008/008-017.md,sitios/quinto-evangelio/content/ano-1975/nociones-esenciales-sobre-ocultismo/index.md,ano-1975,282,150 NOCIONES ESENCIALES SOBRE OCULTISMO,True,0,1,conference,10,False
+editorial/saw/qe/008/008-018.md,sitios/quinto-evangelio/content/ano-1975/las-infradimensiones-de-la-naturaleza/index.md,ano-1975,283,151 LAS INFRADIMENSIONES DE LA NATURALEZA,True,0,1,conference,11,False
+editorial/saw/qe/008/008-019.md,sitios/quinto-evangelio/content/ano-1975/poderes-psiquicos-psicologia-experimental/index.md,ano-1975,284,152 PODERES PSÍQUICOS (PSICOLOGÍA EXPERIMENTAL),True,0,1,conference,10,False
+editorial/saw/qe/008/008-020.md,sitios/quinto-evangelio/content/ano-1975/la-edad-de-hierro-atlante-y-los-hijos-del-quinto-sol/index.md,ano-1975,285,153 LA EDAD DE HIERRO ATLÁNTE Y LOS HIJOS DEL QUINTO SOL,True,0,1,conference,10,False
+editorial/saw/qe/008/008-021.md,sitios/quinto-evangelio/content/ano-1975/platica-sobre-el-amor-y-el-sexo/index.md,ano-1975,286,154 PLÁTICA SOBRE EL AMOR Y EL SEXO,True,0,1,conference,9,False
+editorial/saw/qe/008/008-022.md,sitios/quinto-evangelio/content/ano-1975/lux-in-tenebris-lucem-la-luz-en-las-tinieblas-resplandece/index.md,ano-1975,287,"""LUX IN TENEBRIS LUCEM"" (LA LUZ EN LAS TINIEBLAS RESPLANDECE)",True,0,1,short-text,5,False
+editorial/saw/qe/008/008-023.md,sitios/quinto-evangelio/content/ano-1975/marte-eso-es-alli-no-mas/index.md,ano-1975,288,"""¿MARTE? ¡ESO ES ALLÍ NO MÁS!""",True,0,1,short-text,5,False
+editorial/saw/qe/008/008-024.md,sitios/quinto-evangelio/content/ano-1975/respuestas-a-fernando-villa-uribe-y-amparito/index.md,ano-1975,289,155 RESPUESTAS A FERNANDO VILLA URIBE Y AMPARITO,True,0,1,conference,9,False
+editorial/saw/qe/008/008-025.md,sitios/quinto-evangelio/content/ano-1975/los-yoes-y-sus-efectos-en-el-organismo/index.md,ano-1975,290,"LOS ""YOES"" Y SUS EFECTOS EN EL ORGANISMO",True,0,1,short-text,5,False
+editorial/saw/qe/008/008-026.md,sitios/quinto-evangelio/content/ano-1975/digestion-de-las-impresiones/index.md,ano-1975,291,DIGESTIÓN DE LAS IMPRESIONES,True,0,1,short-text,5,False
+editorial/saw/qe/008/008-027.md,sitios/quinto-evangelio/content/ano-1975/fuerzas-primarias-de-la-naturaleza-y-del-cosmos/index.md,ano-1975,292,FUERZAS PRIMARIAS DE LA NATURALEZA Y DEL COSMOS,True,0,1,short-text,5,False
+editorial/saw/qe/008/008-028.md,sitios/quinto-evangelio/content/ano-1975/la-lucha-de-los-opuestos/index.md,ano-1975,293,LA LUCHA DE LOS OPUESTOS,True,0,1,short-text,5,False
+editorial/saw/qe/008/008-029.md,sitios/quinto-evangelio/content/ano-1975/entrevista-de-conde-ecarre/index.md,ano-1975,294,156 ENTREVISTA DE CONDE ECARRÉ,True,0,1,conference,10,False
+editorial/saw/qe/008/008-030.md,sitios/quinto-evangelio/content/ano-1975/la-pistis-sophia-y-los-tiempos-del-fin/index.md,ano-1975,295,157 LA PISTIS SOPHIA Y LOS TIEMPOS DEL FIN,True,0,1,conference,10,False
+editorial/saw/qe/008/008-031.md,sitios/quinto-evangelio/content/ano-1975/fariseos-y-saduceos/index.md,ano-1975,296,F056 FARISEOS Y SADUCEOS,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/008/008-032.md,sitios/quinto-evangelio/content/ano-1975/la-justicia/index.md,ano-1975,297,158 LA JUSTICIA,True,0,1,conference,9,False
+editorial/saw/qe/008/008-033.md,sitios/quinto-evangelio/content/ano-1975/analisis-de-la-mente/index.md,ano-1975,298,159 ANÁLISIS DE LA MENTE,True,0,1,conference,10,False
+editorial/saw/qe/008/008-034.md,sitios/quinto-evangelio/content/ano-1975/transformacion-de-las-impresiones/index.md,ano-1975,299,F057 TRANSFORMACIÓN DE LAS IMPRESIONES,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/008/008-035.md,sitios/quinto-evangelio/content/ano-1975/el-verdadero-origen-del-hombre/index.md,ano-1975,300,160 EL VERDADERO ORIGEN DEL HOMBRE,True,0,1,conference,11,False
+editorial/saw/qe/008/008-036.md,sitios/quinto-evangelio/content/ano-1975/el-hombre-y-el-universo-que-nos-rodea/index.md,ano-1975,301,161 EL HOMBRE Y EL UNIVERSO QUE NOS RODEA,True,0,1,conference,11,False
+editorial/saw/qe/008/008-037.md,sitios/quinto-evangelio/content/ano-1975/esoterismo-y-pseudoesoterismo/index.md,ano-1975,302,162 ESOTERISMO Y PSEUDOESOTERISMO,True,0,1,conference,10,False
+editorial/saw/qe/008/008-038.md,sitios/quinto-evangelio/content/ano-1975/el-despertar-de-la-conciencia/index.md,ano-1975,303,163 EL DESPERTAR DE LA CONCIENCIA,True,0,1,conference,10,False
+editorial/saw/qe/008/008-039.md,sitios/quinto-evangelio/content/ano-1975/los-dos-tipos-de-cristalizaciones-metafisicas/index.md,ano-1975,304,F058 LOS DOS TIPOS DE CRISTALIZACIONES METAFÍSICAS,True,0,1,transcription-fragment,11,False
+editorial/saw/qe/008/008-040.md,sitios/quinto-evangelio/content/ano-1975/la-transvalorizacion/index.md,ano-1975,305,164 LA TRANSVALORIZACIÓN,True,0,1,conference,10,False
+editorial/saw/qe/008/008-041.md,sitios/quinto-evangelio/content/ano-1975/la-fe-consciente/index.md,ano-1975,306,165 LA FE CONSCIENTE,True,0,1,conference,10,False
+editorial/saw/qe/008/008-042.md,sitios/quinto-evangelio/content/ano-1975/los-distintos-mundos-o-regiones-del-universo/index.md,ano-1975,307,166 LOS DISTINTOS MUNDOS O REGIONES DEL UNIVERSO,True,0,1,conference,10,False
+editorial/saw/qe/008/008-043.md,sitios/quinto-evangelio/content/ano-1975/moises-gran-mago-y-alquimista/index.md,ano-1975,308,"167 MOISÉS, GRAN MAGO Y ALQUIMISTA",True,0,1,conference,10,False
+editorial/saw/qe/008/008-044.md,sitios/quinto-evangelio/content/ano-1975/el-anticristo/index.md,ano-1975,309,168 EL ANTICRISTO,True,0,1,conference,10,False
+editorial/saw/qe/008/008-045.md,sitios/quinto-evangelio/content/ano-1975/las-tres-gunas/index.md,ano-1975,310,169 LAS TRES GUNAS,True,0,1,conference,10,False
+editorial/saw/qe/008/008-046.md,sitios/quinto-evangelio/content/ano-1975/mensaje-dirigido-a-la-juventud-gnostica-revolucionaria/index.md,ano-1975,311,170 MENSAJE DIRIGIDO A LA JUVENTUD GNÓSTICA REVOLUCIONARIA,True,0,1,conference,10,False
+editorial/saw/qe/008/008-047.md,sitios/quinto-evangelio/content/ano-1975/a-que-se-debe-que-en-la-tierra-hayan-diferentes-razas/index.md,ano-1975,312,¿A QUE SE DEBE QUE EN LA TIERRA HAYAN DIFERENTES RAZAS?,True,0,1,short-text,5,False
+editorial/saw/qe/008/008-048.md,sitios/quinto-evangelio/content/ano-1975/la-responsabilidad-en-la-palabra/index.md,ano-1975,313,F059 LA RESPONSABILIDAD EN LA PALABRA,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/008/008-049.md,sitios/quinto-evangelio/content/ano-1975/las-nuevas-generaciones-frente-a-la-gnosis/index.md,ano-1975,314,171 LAS NUEVAS GENERACIONES FRENTE A LA GNOSIS,True,0,1,conference,10,False
+editorial/saw/qe/008/008-050.md,sitios/quinto-evangelio/content/ano-1975/las-dos-lineas-de-la-vida/index.md,ano-1975,315,172 LAS DOS LÍNEAS DE LA VIDA,True,0,1,conference,10,False
+editorial/saw/qe/008/008-051.md,sitios/quinto-evangelio/content/ano-1975/los-recelos-y-las-preocupaciones/index.md,ano-1975,316,173 LOS RECELOS Y LAS PREOCUPACIONES,True,0,1,conference,9,False
+editorial/saw/qe/008/008-052.md,sitios/quinto-evangelio/content/ano-1975/la-voz-del-patriarca-en-abraxas/index.md,ano-1975,317,F060 LA VOZ DEL PATRIARCA EN ABRAXAS,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/008/008-053.md,sitios/quinto-evangelio/content/ano-1975/la-cosecha-del-sol/index.md,ano-1975,318,174 LA COSECHA DEL SOL,True,0,1,conference,10,False
+editorial/saw/qe/008/008-054.md,sitios/quinto-evangelio/content/ano-1975/el-enigma-de-la-muerte/index.md,ano-1975,319,175 EL ENIGMA DE LA MUERTE,True,0,1,conference,9,False
+editorial/saw/qe/008/008-055.md,sitios/quinto-evangelio/content/ano-1975/las-facultades-superiores-del-hombre/index.md,ano-1975,320,176 LAS FACULTADES SUPERIORES DEL HOMBRE,True,0,1,conference,10,False
+editorial/saw/qe/008/008-056.md,sitios/quinto-evangelio/content/ano-1975/el-hombre-verdadero-y-la-sexta-raza/index.md,ano-1975,321,177 EL HOMBRE VERDADERO Y LA SEXTA RAZA,True,0,1,conference,11,False
+editorial/saw/qe/008/008-057.md,sitios/quinto-evangelio/content/ano-1975/el-basamento-de-la-transmutacion-sexual/index.md,ano-1975,322,178 EL BASAMENTO DE LA TRANSMUTACIÓN SEXUAL,True,0,1,conference,10,False
+editorial/saw/qe/008/008-058.md,sitios/quinto-evangelio/content/ano-1975/el-vacio-iluminador-y-la-aniquilacion-budhista/index.md,ano-1975,323,179 EL VACÍO ILUMINADOR Y LA ANIQUILACIÓN BUDHISTA,True,0,1,conference,10,False
+editorial/saw/qe/008/008-059.md,sitios/quinto-evangelio/content/ano-1975/el-tesoro-de-la-fe/index.md,ano-1975,324,180 EL TESORO DE LA FE,True,0,1,conference,10,False
+editorial/saw/qe/008/008-060.md,sitios/quinto-evangelio/content/ano-1975/mitomania-y-escepticismo/index.md,ano-1975,325,F061 MITOMANÍA Y ESCEPTICISMO,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/008/008-061.md,sitios/quinto-evangelio/content/ano-1975/el-mercurio-de-la-filosofia-secreta/index.md,ano-1975,326,F062 EL MERCURIO DE LA FILOSOFÍA SECRETA,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/008/008-062.md,sitios/quinto-evangelio/content/ano-1975/el-pensar-negativo-o-mente-quieta/index.md,ano-1975,327,F063 EL PENSAR NEGATIVO O MENTE QUIETA,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/008/008-063.md,sitios/quinto-evangelio/content/ano-1975/las-dos-llaves-de-oro-y-plata-del-apostol-pedro/index.md,ano-1975,328,181 LAS DOS LLAVES DE ORO Y PLATA DEL APÓSTOL PEDRO,True,0,1,conference,9,False
+editorial/saw/qe/008/008-064.md,sitios/quinto-evangelio/content/ano-1975/la-busqueda-de-nuestra-propia-realidad/index.md,ano-1975,329,182 LA BÚSQUEDA DE NUESTRA PROPIA REALIDAD,True,0,1,conference,7,False
+editorial/saw/qe/008/008-065.md,sitios/quinto-evangelio/content/ano-1975/el-3-de-esencia-libre/index.md,ano-1975,330,F064 EL 3% DE ESENCIA LIBRE,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/008/008-066.md,sitios/quinto-evangelio/content/ano-1975/la-degeneracion-de-la-capacidad-del-habla/index.md,ano-1975,331,F065 LA DEGENERACIÓN DE LA CAPACIDAD DEL HABLA,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/008/008-067.md,sitios/quinto-evangelio/content/ano-1975/mexico-esta-gobernado-por-capricornio-y-saturno/index.md,ano-1975,332,F066 MÉXICO ESTÁ GOBERNADO POR CAPRICORNIO Y SATURNO,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/008/008-068.md,sitios/quinto-evangelio/content/ano-1975/los-tres-discipulos-de-tritemio/index.md,ano-1975,333,F067 LOS TRES DISCÍPULOS DE TRITEMIO,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/008/008-069.md,sitios/quinto-evangelio/content/ano-1975/por-que-el-maestro-ya-no-habla-de-lo-mismo-que-antes/index.md,ano-1975,334,F068 POR QUÉ EL MAESTRO YA NO HABLA DE LO MISMO QUE ANTES,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/008/008-070.md,sitios/quinto-evangelio/content/ano-1975/de-donde-saca-el-maestro-lo-que-escribe-en-sus-libros/index.md,ano-1975,335,F069 DE DÓNDE SACA EL MAESTRO LO QUE ESCRIBE EN SUS LIBROS,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/008/008-071.md,sitios/quinto-evangelio/content/ano-1975/el-origen-de-los-mayas/index.md,ano-1975,336,F070 EL ORIGEN DE LOS MAYAS,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/008/008-072.md,sitios/quinto-evangelio/content/ano-1975/conferencia-sobre-hercolubus/index.md,ano-1975,337,183 CONFERENCIA SOBRE HERCÓLUBUS,True,0,1,conference,11,False
+editorial/saw/qe/008/008-073.md,sitios/quinto-evangelio/content/ano-1975/la-madre-divina/index.md,ano-1975,338,F071 LA MADRE DIVINA,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/008/008-074.md,sitios/quinto-evangelio/content/ano-1975/magicas-creaciones-del-sonido/index.md,ano-1975,339,F072 MÁGICAS CREACIONES DEL SONIDO,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/008/008-075.md,sitios/quinto-evangelio/content/ano-1975/la-fantasia-de-creerse-uno/index.md,ano-1975,340,"184 LA FANTASÍA DE CREERSE ""UNO""",True,0,1,conference,10,False
+editorial/saw/qe/008/008-076.md,sitios/quinto-evangelio/content/ano-1975/la-fuerza-del-cristo-y-la-eliminacion-del-ego/index.md,ano-1975,341,185 LA FUERZA DEL CRISTO Y LA ELIMINACIÓN DEL EGO,True,0,1,conference,10,False
+editorial/saw/qe/008/008-077.md,sitios/quinto-evangelio/content/ano-1975/platica-en-teatro-la-amistad/index.md,ano-1975,342,186 PLÁTICA EN TEATRO LA AMISTAD,True,0,1,conference,9,False
+editorial/saw/qe/008/008-078.md,sitios/quinto-evangelio/content/ano-1975/la-nueva-edad-de-acuario/index.md,ano-1975,343,187 LA NUEVA EDAD DE ACUARIO,True,0,1,conference,10,False
+editorial/saw/qe/008/008-079.md,sitios/quinto-evangelio/content/ano-1975/el-movimiento-gnostico-y-su-razon-de-ser/index.md,ano-1975,344,188 EL MOVIMIENTO GNÓSTICO Y SU RAZÓN DE SER,True,0,1,conference,10,False
+editorial/saw/qe/008/008-080.md,sitios/quinto-evangelio/content/ano-1975/el-verdadero-simbolismo-de-la-navidad/index.md,ano-1975,345,189 EL VERDADERO SIMBOLISMO DE LA NAVIDAD,True,0,1,conference,10,False
+editorial/saw/qe/008/008-081.md,sitios/quinto-evangelio/content/ano-1975/increibles-fenomenos-relacionados-con-el-tiempo/index.md,ano-1975,346,190 INCREÍBLES FENÓMENOS RELACIONADOS CON EL TIEMPO,True,0,1,conference,10,False
+editorial/saw/qe/009/009-001.md,sitios/quinto-evangelio/content/ano-1976/la-meditacion-y-el-vacio-iluminador/index.md,ano-1976,347,191 LA MEDITACIÓN Y EL VACÍO ILUMINADOR,True,0,1,conference,10,False
+editorial/saw/qe/009/009-002.md,sitios/quinto-evangelio/content/ano-1976/gran-manifiesto-gnostico-internacional-1976/index.md,ano-1976,348,GRAN MANIFIESTO GNÓSTICO INTERNACIONAL 1976,True,0,1,short-text,6,False
+editorial/saw/qe/009/009-003.md,sitios/quinto-evangelio/content/ano-1976/carta-del-29-de-enero-de-1976/index.md,ano-1976,349,CARTA DEL 29 DE ENERO DE 1976,True,0,1,short-text,5,False
+editorial/saw/qe/009/009-004.md,sitios/quinto-evangelio/content/ano-1976/la-resurreccion-mistica-o-esoterica/index.md,ano-1976,350,192 LA RESURRECCIÓN MÍSTICA O ESOTÉRICA,True,0,1,conference,10,False
+editorial/saw/qe/009/009-005.md,sitios/quinto-evangelio/content/ano-1976/el-plan-de-expansion-del-movimiento-gnostico/index.md,ano-1976,351,193 EL PLAN DE EXPANSIÓN DEL MOVIMIENTO GNÓSTICO,True,0,1,conference,11,False
+editorial/saw/qe/009/009-006.md,sitios/quinto-evangelio/content/ano-1976/el-ejercito-de-salvacion-mundial/index.md,ano-1976,352,F073 EL EJÉRCITO DE SALVACIÓN MUNDIAL,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/009/009-007.md,sitios/quinto-evangelio/content/ano-1976/las-tres-purificaciones/index.md,ano-1976,353,F074 LAS TRES PURIFICACIONES,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/009/009-008.md,sitios/quinto-evangelio/content/ano-1976/la-cristificacion/index.md,ano-1976,354,194 LA CRISTIFICACIÓN,True,0,1,conference,10,False
+editorial/saw/qe/009/009-009.md,sitios/quinto-evangelio/content/ano-1976/quienes-somos-de-donde-venimos-hacia-donde-vamos/index.md,ano-1976,355,195 ¿QUIÉNES SOMOS? ¿DE DÓNDE VENIMOS? ¿HACIA DÓNDE VAMOS?,True,0,1,conference,10,False
+editorial/saw/qe/009/009-010.md,sitios/quinto-evangelio/content/ano-1976/la-metamorfosis-que-debemos-realizar/index.md,ano-1976,356,F075 LA METAMORFOSIS QUE DEBEMOS REALIZAR,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/009/009-011.md,sitios/quinto-evangelio/content/ano-1976/la-degeneracion-del-siglo-xx/index.md,ano-1976,357,F076 LA DEGENERACIÓN DEL SIGLO XX,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/009/009-012.md,sitios/quinto-evangelio/content/ano-1976/lo-que-somos-y-lo-que-debemos-ser/index.md,ano-1976,358,196 LO QUE SOMOS Y LO QUE DEBEMOS SER,True,0,1,conference,10,False
+editorial/saw/qe/009/009-013.md,sitios/quinto-evangelio/content/ano-1976/el-espejo-magico/index.md,ano-1976,359,F077 EL ESPEJO MÁGICO,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/009/009-014.md,sitios/quinto-evangelio/content/ano-1976/mensaje-a-los-gnosticos-espanoles/index.md,ano-1976,360,197 MENSAJE A LOS GNÓSTICOS ESPAÑOLES,True,0,1,conference,10,False
+editorial/saw/qe/009/009-015.md,sitios/quinto-evangelio/content/ano-1976/la-ley-de-la-entropia/index.md,ano-1976,361,F078 LA LEY DE LA ENTROPÍA,True,0,1,transcription-fragment,11,False
+editorial/saw/qe/009/009-016.md,sitios/quinto-evangelio/content/ano-1976/fundamentos-esotericos-de-la-perdurabilidad-del-movimiento-gnostico/index.md,ano-1976,362,F079 FUNDAMENTOS ESOTÉRICOS DE LA PERDURABILIDAD DEL MOVIMIENTO GNÓSTICO,True,0,1,transcription-fragment,11,False
+editorial/saw/qe/009/009-017.md,sitios/quinto-evangelio/content/ano-1976/la-influencia-lunar/index.md,ano-1976,363,198 LA INFLUENCIA LUNAR,True,0,1,conference,10,False
+editorial/saw/qe/009/009-018.md,sitios/quinto-evangelio/content/ano-1976/exhorto-a-la-auto-observacion-y-el-recuerdo-de-si/index.md,ano-1976,364,199 EXHORTO A LA AUTO-OBSERVACIÓN Y EL RECUERDO DE SÍ,True,0,1,conference,8,False
+editorial/saw/qe/009/009-019.md,sitios/quinto-evangelio/content/ano-1976/entropia-holocausto-y-extraterrestres/index.md,ano-1976,365,"200 ENTROPÍA, HOLOCAUSTO Y EXTRATERRESTRES",True,0,1,conference,10,False
+editorial/saw/qe/009/009-020.md,sitios/quinto-evangelio/content/ano-1976/platica-del-v-m-samael-con-julio-medina-v/index.md,ano-1976,366,201 PLÁTICA DEL V. M. SAMAEL CON JULIO MEDINA V.,True,0,1,conference,7,False
+editorial/saw/qe/009/009-021.md,sitios/quinto-evangelio/content/ano-1976/gran-manifiesto-gnostico-del-13-de-mayo-de-1976/index.md,ano-1976,367,GRAN MANIFIESTO GNÓSTICO DEL 13 DE MAYO DE 1976,True,0,1,short-text,5,False
+editorial/saw/qe/009/009-022.md,sitios/quinto-evangelio/content/ano-1976/sexologia-trascendental/index.md,ano-1976,368,202 SEXOLOGÍA TRASCENDENTAL,True,0,1,conference,10,False
+editorial/saw/qe/009/009-023.md,sitios/quinto-evangelio/content/ano-1976/fenomenos-post-mortem/index.md,ano-1976,369,203 FENÓMENOS POST MORTEM,True,0,1,conference,10,False
+editorial/saw/qe/009/009-024.md,sitios/quinto-evangelio/content/ano-1976/gran-manifiesto-de-la-sede-patriarcal-de-mexico-con-fecha-1-de-junio-de-1976/index.md,ano-1976,370,GRAN MANIFIESTO DE LA SEDE PATRIARCAL DE MÉXICO CON FECHA 1º DE JUNIO DE 1976,True,0,1,short-text,5,False
+editorial/saw/qe/009/009-025.md,sitios/quinto-evangelio/content/ano-1976/entrevista-sobre-los-extraterrestres-en-el-canal-12-tv-de-chihuahua/index.md,ano-1976,371,204 ENTREVISTA SOBRE LOS EXTRATERRESTRES EN EL CANAL 12 TV DE CHIHUAHUA,True,0,1,conference,9,False
+editorial/saw/qe/009/009-026.md,sitios/quinto-evangelio/content/ano-1976/las-representaciones-de-la-mente/index.md,ano-1976,372,205 LAS REPRESENTACIONES DE LA MENTE,True,0,1,conference,10,False
+editorial/saw/qe/009/009-027.md,sitios/quinto-evangelio/content/ano-1976/la-fabricacion-del-oro-y-la-luz/index.md,ano-1976,373,F080 LA FABRICACIÓN DEL ORO Y LA LUZ,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/009/009-028.md,sitios/quinto-evangelio/content/ano-1976/los-siete-tipos-de-hombres/index.md,ano-1976,374,206 LOS SIETE TIPOS DE HOMBRES,True,0,1,conference,10,False
+editorial/saw/qe/009/009-029.md,sitios/quinto-evangelio/content/ano-1976/fundamentos-alquimicos-del-bautismo-y-del-matrimonio/index.md,ano-1976,375,207 FUNDAMENTOS ALQUÍMICOS DEL BAUTISMO Y DEL MATRIMONIO,True,0,1,conference,10,False
+editorial/saw/qe/009/009-030.md,sitios/quinto-evangelio/content/ano-1976/el-sacrificio-del-dolor/index.md,ano-1976,376,208 EL SACRIFICIO DEL DOLOR,True,0,1,conference,11,False
+editorial/saw/qe/009/009-031.md,sitios/quinto-evangelio/content/ano-1976/edad-media-y-esoterismo-gnostico/index.md,ano-1976,377,209 EDAD MEDIA Y ESOTERISMO GNÓSTICO,True,0,1,conference,11,False
+editorial/saw/qe/009/009-032.md,sitios/quinto-evangelio/content/ano-1976/el-conocimiento-de-si-mismo/index.md,ano-1976,378,210 EL CONOCIMIENTO DE SI MISMO,True,0,1,conference,10,False
+editorial/saw/qe/009/009-033.md,sitios/quinto-evangelio/content/ano-1976/imaginacion-y-fantasia/index.md,ano-1976,379,211 IMAGINACIÓN Y FANTASÍA,True,0,1,conference,10,False
+editorial/saw/qe/009/009-034.md,sitios/quinto-evangelio/content/ano-1976/el-lado-oculto-de-la-luna-psicologica/index.md,ano-1976,380,212 EL LADO OCULTO DE LA LUNA PSICOLÓGICA,True,0,1,conference,10,False
+editorial/saw/qe/009/009-035.md,sitios/quinto-evangelio/content/ano-1976/los-tres-tipos-de-alimento/index.md,ano-1976,381,213 LOS TRES TIPOS DE ALIMENTO,True,0,1,conference,10,False
+editorial/saw/qe/009/009-036.md,sitios/quinto-evangelio/content/ano-1976/por-que-juzgamos-a-los-demas/index.md,ano-1976,382,214 POR QUÉ JUZGAMOS A LOS DEMÁS,True,0,1,conference,10,False
+editorial/saw/qe/009/009-037.md,sitios/quinto-evangelio/content/ano-1976/sabor-trabajo-y-sabor-vida/index.md,ano-1976,383,215 SABOR TRABAJO Y SABOR VIDA,True,0,1,conference,10,False
+editorial/saw/qe/009/009-038.md,sitios/quinto-evangelio/content/ano-1976/la-falsa-personalidad/index.md,ano-1976,384,216 LA FALSA PERSONALIDAD,True,0,1,conference,10,False
+editorial/saw/qe/009/009-039.md,sitios/quinto-evangelio/content/ano-1976/el-hipnotismo-colectivo-y-la-practica-de-la-gnosis/index.md,ano-1976,385,217 EL HIPNOTISMO COLECTIVO Y LA PRÁCTICA DE LA GNOSIS,True,0,1,conference,10,False
+editorial/saw/qe/009/009-040.md,sitios/quinto-evangelio/content/ano-1976/la-creacion-de-los-cuerpos-solares/index.md,ano-1976,386,218 LA CREACIÓN DE LOS CUERPOS SOLARES,True,0,1,conference,10,False
+editorial/saw/qe/009/009-041.md,sitios/quinto-evangelio/content/ano-1976/psicologia-experimental-y-fenomenos-de-la-parapsicologia/index.md,ano-1976,387,219 PSICOLOGÍA EXPERIMENTAL Y FENÓMENOS DE LA PARAPSICOLOGÍA,True,0,1,conference,10,False
+editorial/saw/qe/009/009-042.md,sitios/quinto-evangelio/content/ano-1976/departiendo-con-los-hermanos-gnosticos-salvadorenos/index.md,ano-1976,388,220 DEPARTIENDO CON LOS HERMANOS GNÓSTICOS SALVADOREÑOS,True,0,1,conference,10,False
+editorial/saw/qe/009/009-043.md,sitios/quinto-evangelio/content/ano-1976/respuestas-a-los-hermanos-gnosticos-salvadorenos/index.md,ano-1976,389,F081 RESPUESTAS A LOS HERMANOS GNÓSTICOS SALVADOREÑOS,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/009/009-044.md,sitios/quinto-evangelio/content/ano-1976/los-tres-factores-de-la-revolucion-de-la-conciencia-y-el-futuro-de-la-mision-gnostica/index.md,ano-1976,390,221 LOS TRES FACTORES DE LA REVOLUCIÓN DE LA CONCIENCIA Y EL FUTURO DE LA MISIÓN GNÓSTICA,True,0,1,conference,10,False
+editorial/saw/qe/009/009-045.md,sitios/quinto-evangelio/content/ano-1976/el-septenario-teosofico/index.md,ano-1976,391,222 EL SEPTENARIO TEOSÓFICO,True,0,1,conference,10,False
+editorial/saw/qe/009/009-046.md,sitios/quinto-evangelio/content/ano-1976/trascendencia-esoterica-del-bautismo/index.md,ano-1976,392,223 TRASCENDENCIA ESOTÉRICA DEL BAUTISMO,True,0,1,conference,10,False
+editorial/saw/qe/009/009-047.md,sitios/quinto-evangelio/content/ano-1976/el-esoterismo-del-toreo/index.md,ano-1976,393,F082 EL ESOTERISMO DEL TOREO,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/009/009-048.md,sitios/quinto-evangelio/content/ano-1976/el-camino-esoterico/index.md,ano-1976,394,224 EL CAMINO ESOTÉRICO,True,0,1,conference,10,False
+editorial/saw/qe/009/009-049.md,sitios/quinto-evangelio/content/ano-1976/orientaciones-a-los-instructores-salvadorenos-sobre-los-pilares-basicos-del-plan-de-estudios/index.md,ano-1976,395,225 ORIENTACIONES A LOS INSTRUCTORES SALVADOREÑOS SOBRE LOS PILARES BÁSICOS DEL PLAN DE ESTUDIOS,True,0,1,conference,9,False
+editorial/saw/qe/009/009-050.md,sitios/quinto-evangelio/content/ano-1976/metafisica-trascendental/index.md,ano-1976,396,226 METAFÍSICA TRASCENDENTAL,True,0,1,conference,10,False
+editorial/saw/qe/009/009-051.md,sitios/quinto-evangelio/content/ano-1976/el-paraiso-perdido/index.md,ano-1976,397,227 EL PARAÍSO PERDIDO,True,0,1,conference,7,False
+editorial/saw/qe/009/009-052.md,sitios/quinto-evangelio/content/ano-1976/los-extraterrestres/index.md,ano-1976,398,228 LOS EXTRATERRESTRES,True,0,1,conference,7,False
+editorial/saw/qe/009/009-053.md,sitios/quinto-evangelio/content/ano-1976/el-camino-de-la-auto-realizacion-y-los-3-factores-de-la-revolucion-de-la-conciencia/index.md,ano-1976,399,229 EL CAMINO DE LA AUTO-REALIZACIÓN Y LOS 3 FACTORES DE LA REVOLUCIÓN DE LA CONCIENCIA,True,0,1,conference,7,False
+editorial/saw/qe/009/009-054.md,sitios/quinto-evangelio/content/ano-1976/hercolubus-el-ego-y-el-nuevo-orden-mundial/index.md,ano-1976,400,"230 HERCÓLUBUS, EL EGO Y EL NUEVO ORDEN MUNDIAL",True,0,1,conference,9,False
+editorial/saw/qe/009/009-055.md,sitios/quinto-evangelio/content/ano-1976/un-caso-insolito/index.md,ano-1976,401,UN CASO INSÓLITO,True,0,1,short-text,5,False
+editorial/saw/qe/009/009-056.md,sitios/quinto-evangelio/content/ano-1976/la-sabiduria-de-la-muerte/index.md,ano-1976,402,231 LA SABIDURÍA DE LA MUERTE,True,0,1,conference,10,False
+editorial/saw/qe/009/009-057.md,sitios/quinto-evangelio/content/ano-1976/el-arte-regio-en-las-antiguas-culturas-mexicanas/index.md,ano-1976,403,232 EL ARTE REGIO EN LAS ANTIGUAS CULTURAS MEXICANAS,True,0,1,conference,10,False
+editorial/saw/qe/009/009-058.md,sitios/quinto-evangelio/content/ano-1976/las-tradiciones-sagradas-del-mexico-antiguo/index.md,ano-1976,404,233 LAS TRADICIONES SAGRADAS DEL MÉXICO ANTIGUO,True,0,1,conference,10,False
+editorial/saw/qe/009/009-059.md,sitios/quinto-evangelio/content/ano-1976/acerca-de-la-antropologia-gnostica/index.md,ano-1976,405,234 ACERCA DE LA ANTROPOLOGÍA GNÓSTICA,True,0,1,conference,9,False
+editorial/saw/qe/009/009-060.md,sitios/quinto-evangelio/content/ano-1976/hercolubus-y-los-tiempos-del-fin/index.md,ano-1976,406,235 HERCÓLUBUS Y LOS TIEMPOS DEL FIN,True,0,1,conference,10,False
+editorial/saw/qe/009/009-061.md,sitios/quinto-evangelio/content/ano-1976/entrevista-a-mario-moreno-y-al-maestro/index.md,ano-1976,407,236 ENTREVISTA A MARIO MORENO Y AL MAESTRO,True,0,1,conference,11,False
+editorial/saw/qe/009/009-062.md,sitios/quinto-evangelio/content/ano-1976/samael-no-busca-dinero-ni-gloria/index.md,ano-1976,408,237 SAMAEL NO BUSCA DINERO NI GLORIA,True,0,1,conference,10,False
+editorial/saw/qe/009/009-063.md,sitios/quinto-evangelio/content/ano-1976/disertaciones-durante-el-congreso-internacional-de-1976/index.md,ano-1976,409,238 DISERTACIONES DURANTE EL CONGRESO INTERNACIONAL DE 1976,True,0,1,conference,9,False
+editorial/saw/qe/009/009-064.md,sitios/quinto-evangelio/content/ano-1976/la-practica-de-la-caridad-consciente/index.md,ano-1976,410,F083 LA PRÁCTICA DE LA CARIDAD CONSCIENTE,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/009/009-065.md,sitios/quinto-evangelio/content/ano-1976/el-dia-de-muertos/index.md,ano-1976,411,239 EL DÍA DE MUERTOS,True,0,1,conference,10,False
+editorial/saw/qe/009/009-066.md,sitios/quinto-evangelio/content/ano-1976/el-equilibrio-de-los-centros-energeticos/index.md,ano-1976,412,240 EL EQUILIBRIO DE LOS CENTROS ENERGÉTICOS,True,0,1,conference,8,False
+editorial/saw/qe/009/009-067.md,sitios/quinto-evangelio/content/ano-1976/la-liberacion-espiritual-de-la-mujer/index.md,ano-1976,413,241 LA LIBERACIÓN ESPIRITUAL DE LA MUJER,True,0,1,conference,10,False
+editorial/saw/qe/009/009-068.md,sitios/quinto-evangelio/content/ano-1976/la-santa-predestinacion/index.md,ano-1976,414,242 LA SANTA PREDESTINACIÓN,True,0,1,conference,10,False
+editorial/saw/qe/009/009-069.md,sitios/quinto-evangelio/content/ano-1976/encuentro-con-las-hermanas-gnosticas/index.md,ano-1976,415,243 ENCUENTRO CON LAS HERMANAS GNÓSTICAS,True,0,1,conference,10,False
+editorial/saw/qe/009/009-070.md,sitios/quinto-evangelio/content/ano-1976/comentarios-del-maestro-a-las-conclusiones-del-primer-encuentro-de-damas-gnosticas/index.md,ano-1976,416,244 COMENTARIOS DEL MAESTRO A LAS CONCLUSIONES DEL PRIMER ENCUENTRO DE DAMAS GNÓSTICAS,True,0,1,conference,9,False
+editorial/saw/qe/009/009-071.md,sitios/quinto-evangelio/content/ano-1976/el-dios-tlaloc/index.md,ano-1976,417,245 EL DIOS TLÁLOC,True,0,1,conference,11,False
+editorial/saw/qe/009/009-072.md,sitios/quinto-evangelio/content/ano-1976/la-palabra-y-las-impresiones/index.md,ano-1976,418,F084 LA PALABRA Y LAS IMPRESIONES,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/009/009-073.md,sitios/quinto-evangelio/content/ano-1976/la-creacion-del-cosmos-hombre/index.md,ano-1976,419,246 LA CREACIÓN DEL COSMOS-HOMBRE,True,0,1,conference,11,False
+editorial/saw/qe/009/009-074.md,sitios/quinto-evangelio/content/ano-1976/la-corriente-del-sonido/index.md,ano-1976,420,247 LA CORRIENTE DEL SONIDO,True,0,1,conference,11,False
+editorial/saw/qe/009/009-075.md,sitios/quinto-evangelio/content/ano-1976/la-iniciacion-de-judas/index.md,ano-1976,421,248 LA INICIACIÓN DE JUDAS,True,0,1,conference,9,False
+editorial/saw/qe/009/009-076.md,sitios/quinto-evangelio/content/ano-1976/orientacion-a-los-nuevos-misioneros-del-s-s-s/index.md,ano-1976,422,249 ORIENTACIÓN A LOS NUEVOS MISIONEROS DEL S.S.S.,True,0,1,conference,9,False
+editorial/saw/qe/009/009-077.md,sitios/quinto-evangelio/content/ano-1976/varios-momentos-del-congreso-mundial-1976/index.md,ano-1976,423,250 VARIOS MOMENTOS DEL CONGRESO MUNDIAL 1976,True,0,1,conference,10,False
+editorial/saw/qe/009/009-078.md,sitios/quinto-evangelio/content/ano-1976/simbologia-del-altar-gnostico-y-develacion-de-la-pistis-sophia/index.md,ano-1976,424,251 SIMBOLOGÍA DEL ALTAR GNÓSTICO Y DEVELACIÓN DE LA PISTIS SOPHIA,True,0,1,conference,9,False
+editorial/saw/qe/009/009-079.md,sitios/quinto-evangelio/content/ano-1976/el-bautismo-y-la-liturgia-gnostica/index.md,ano-1976,425,252 EL BAUTISMO Y LA LITURGIA GNÓSTICA,True,0,1,conference,10,False
+editorial/saw/qe/009/009-080.md,sitios/quinto-evangelio/content/ano-1976/omar/_index.md,ano-1976,426,OMAR,True,0,6,book,5,False
+editorial/saw/qe/009/009-081.md,sitios/quinto-evangelio/content/ano-1976/breves-comentarios-del-maestro-tras-el-estreno-de-omar/index.md,ano-1976,427,F085 BREVES COMENTARIOS DEL MAESTRO TRAS EL ESTRENO DE OMAR,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/009/009-082.md,sitios/quinto-evangelio/content/ano-1976/exhortacion-a-los-misioneros/index.md,ano-1976,428,253 EXHORTACIÓN A LOS MISIONEROS,True,0,1,conference,10,False
+editorial/saw/qe/009/009-083.md,sitios/quinto-evangelio/content/ano-1976/del-hombre-al-superhombre/index.md,ano-1976,429,254 DEL HOMBRE AL SUPERHOMBRE,True,0,1,conference,10,False
+editorial/saw/qe/009/009-084.md,sitios/quinto-evangelio/content/ano-1976/la-futura-division-del-movimiento-gnostico/index.md,ano-1976,430,255 LA FUTURA DIVISIÓN DEL MOVIMIENTO GNÓSTICO,True,0,1,conference,9,False
+editorial/saw/qe/009/009-085.md,sitios/quinto-evangelio/content/ano-1976/platica-del-maestro-con-fernando-moya/index.md,ano-1976,431,256 PLÁTICA DEL MAESTRO CON FERNANDO MOYA,True,0,1,conference,12,False
+editorial/saw/qe/009/009-086.md,sitios/quinto-evangelio/content/ano-1976/el-descenso-del-cristo-al-principio-de-cada-era-y-otros-temas-de-ocultismo/index.md,ano-1976,432,257 EL DESCENSO DEL CRISTO AL PRINCIPIO DE CADA ERA Y OTROS TEMAS DE OCULTISMO,True,0,1,conference,10,False
+editorial/saw/qe/009/009-087.md,sitios/quinto-evangelio/content/ano-1976/grabaciones-de-oficios-liturgicos/index.md,ano-1976,433,GRABACIONES DE OFICIOS LITÚRGICOS,True,0,1,conference,7,False
+editorial/saw/qe/010/010-001.md,sitios/quinto-evangelio/content/ano-1977/la-gran-realidad/index.md,ano-1977,434,258 LA GRAN REALIDAD,True,0,1,conference,10,False
+editorial/saw/qe/010/010-002.md,sitios/quinto-evangelio/content/ano-1977/la-emancipacion-de-la-esencia/index.md,ano-1977,435,259 LA EMANCIPACIÓN DE LA ESENCIA,True,0,1,conference,11,False
+editorial/saw/qe/010/010-003.md,sitios/quinto-evangelio/content/ano-1977/la-cristalizacion-del-alma/index.md,ano-1977,436,260 LA CRISTALIZACIÓN DEL ALMA,True,0,1,conference,10,False
+editorial/saw/qe/010/010-004.md,sitios/quinto-evangelio/content/ano-1977/la-elaboracion-del-mercurio-de-los-sabios/index.md,ano-1977,437,261 LA ELABORACIÓN DEL MERCURIO DE LOS SABIOS,True,0,1,conference,10,False
+editorial/saw/qe/010/010-005.md,sitios/quinto-evangelio/content/ano-1977/la-experiencia-de-lo-real/index.md,ano-1977,438,262 LA EXPERIENCIA DE LO REAL,True,0,1,conference,10,False
+editorial/saw/qe/010/010-006.md,sitios/quinto-evangelio/content/ano-1977/el-bodhicitta/index.md,ano-1977,439,263 EL BODHICITTA,True,0,1,conference,9,False
+editorial/saw/qe/010/010-007.md,sitios/quinto-evangelio/content/ano-1977/como-aprender-a-escuchar/index.md,ano-1977,440,264 CÓMO APRENDER A ESCUCHAR,True,0,1,conference,10,False
+editorial/saw/qe/010/010-008.md,sitios/quinto-evangelio/content/ano-1977/el-autoconocimiento-del-ser/index.md,ano-1977,441,265 EL AUTOCONOCIMIENTO DEL SER,True,0,1,conference,10,False
+editorial/saw/qe/010/010-009.md,sitios/quinto-evangelio/content/ano-1977/la-importancia-de-estudiar-antropologia/index.md,ano-1977,442,266 LA IMPORTANCIA DE ESTUDIAR ANTROPOLOGÍA,True,0,1,conference,10,False
+editorial/saw/qe/010/010-010.md,sitios/quinto-evangelio/content/ano-1977/el-amor-y-el-sexo/index.md,ano-1977,443,267 EL AMOR Y EL SEXO,True,0,1,conference,10,False
+editorial/saw/qe/010/010-011.md,sitios/quinto-evangelio/content/ano-1977/entrevistas-en-radio-iq/index.md,ano-1977,444,"268 ENTREVISTAS EN ""RADIO IQ""",True,0,1,conference,10,False
+editorial/saw/qe/010/010-012.md,sitios/quinto-evangelio/content/ano-1977/el-dios-pacal-y-el-katun-13/index.md,ano-1977,445,F086 EL DIOS PACAL Y EL KATÚN 13,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/010/010-013.md,sitios/quinto-evangelio/content/ano-1977/el-amor/index.md,ano-1977,446,269 EL AMOR,True,0,1,conference,10,False
+editorial/saw/qe/010/010-014.md,sitios/quinto-evangelio/content/ano-1977/mas-alla-de-la-muerte/index.md,ano-1977,447,270 MÁS ALLÁ DE LA MUERTE,True,0,1,conference,10,False
+editorial/saw/qe/010/010-015.md,sitios/quinto-evangelio/content/ano-1977/los-germenes-del-hombre-estan-en-nosotros/index.md,ano-1977,448,F087 LOS GÉRMENES DEL HOMBRE ESTÁN EN NOSOTROS,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/010/010-016.md,sitios/quinto-evangelio/content/ano-1977/el-fenomeno-ovni/index.md,ano-1977,449,271 EL FENÓMENO OVNI,True,0,1,conference,10,False
+editorial/saw/qe/010/010-017.md,sitios/quinto-evangelio/content/ano-1977/el-cataclismo-final-y-los-extraterrestres/index.md,ano-1977,450,272 EL CATACLISMO FINAL Y LOS EXTRATERRESTRES,True,0,1,conference,10,False
+editorial/saw/qe/010/010-018.md,sitios/quinto-evangelio/content/ano-1977/entrevista-en-radio-universidad/index.md,ano-1977,451,273 ENTREVISTA EN RADIO UNIVERSIDAD,True,0,1,conference,10,False
+editorial/saw/qe/010/010-019.md,sitios/quinto-evangelio/content/ano-1977/el-enigma-del-hombre/index.md,ano-1977,452,274 EL ENIGMA DEL HOMBRE,True,0,1,conference,11,False
+editorial/saw/qe/010/010-020.md,sitios/quinto-evangelio/content/ano-1977/sobre-los-bhons-y-otras-cuestiones-esotericas/index.md,ano-1977,453,275 SOBRE LOS BHONS Y OTRAS CUESTIONES ESOTÉRICAS,True,0,1,conference,10,False
+editorial/saw/qe/010/010-021.md,sitios/quinto-evangelio/content/ano-1977/primera-entrevista-en-la-television-de-san-luis-potosi/index.md,ano-1977,454,276 PRIMERA ENTREVISTA EN LA TELEVISIÓN DE SAN LUIS POTOSÍ,True,0,1,conference,11,False
+editorial/saw/qe/010/010-022.md,sitios/quinto-evangelio/content/ano-1977/segunda-entrevista-en-la-television-de-san-luis-potosi/index.md,ano-1977,455,277 SEGUNDA ENTREVISTA EN LA TELEVISIÓN DE SAN LUIS POTOSÍ,True,0,1,conference,11,False
+editorial/saw/qe/010/010-023.md,sitios/quinto-evangelio/content/ano-1977/tercera-entrevista-en-la-television-de-san-luis-potosi/index.md,ano-1977,456,278 TERCERA ENTREVISTA EN LA TELEVISIÓN DE SAN LUIS POTOSÍ,True,0,1,conference,11,False
+editorial/saw/qe/010/010-024.md,sitios/quinto-evangelio/content/ano-1977/platica-durante-la-celebracion-del-sexagesimo-onomastico-del-maestro/index.md,ano-1977,457,F088 PLÁTICA DURANTE LA CELEBRACIÓN DEL SEXAGÉSIMO ONOMÁSTICO DEL MAESTRO,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/010/010-025.md,sitios/quinto-evangelio/content/ano-1977/el-ser-y-el-saber/index.md,ano-1977,458,279 EL SER Y EL SABER,True,0,1,conference,10,False
+editorial/saw/qe/010/010-026.md,sitios/quinto-evangelio/content/ano-1977/la-seriedad-en-el-trabajo-esoterico-y-la-anormalidad-de-la-psiquis/index.md,ano-1977,459,280 LA SERIEDAD EN EL TRABAJO ESOTÉRICO Y LA ANORMALIDAD DE LA PSIQUIS,True,0,1,conference,7,False
+editorial/saw/qe/010/010-027.md,sitios/quinto-evangelio/content/ano-1977/el-sacrificio-o-sacro-oficio/index.md,ano-1977,460,F089 EL SACRIFICIO O SACRO-OFICIO,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/010/010-028.md,sitios/quinto-evangelio/content/ano-1977/entrevista-de-oscar-uzcategui-quintero/index.md,ano-1977,461,281 ENTREVISTA DE ÓSCAR UZCÁTEGUI QUINTERO,True,0,1,conference,10,False
+editorial/saw/qe/010/010-029.md,sitios/quinto-evangelio/content/ano-1977/estudio-psiquico-del-hombre/index.md,ano-1977,462,282 ESTUDIO PSÍQUICO DEL HOMBRE,True,0,1,conference,10,False
+editorial/saw/qe/010/010-030.md,sitios/quinto-evangelio/content/ano-1977/experimentos-psiquicos/index.md,ano-1977,463,283 EXPERIMENTOS PSÍQUICOS,True,0,1,conference,10,False
+editorial/saw/qe/010/010-031.md,sitios/quinto-evangelio/content/ano-1977/los-fenomenos-metafisicos/index.md,ano-1977,464,284 LOS FENÓMENOS METAFÍSICOS,True,0,1,conference,10,False
+editorial/saw/qe/010/010-032.md,sitios/quinto-evangelio/content/ano-1977/los-misterios-de-la-vida-y-de-la-muerte/index.md,ano-1977,465,285 LOS MISTERIOS DE LA VIDA Y DE LA MUERTE,True,0,1,conference,10,False
+editorial/saw/qe/010/010-033.md,sitios/quinto-evangelio/content/ano-1977/extraterrestres-y-platillos-voladores/index.md,ano-1977,466,286 EXTRATERRESTRES Y PLATILLOS VOLADORES,True,0,1,conference,9,False
+editorial/saw/qe/010/010-034.md,sitios/quinto-evangelio/content/ano-1977/antropogenesis-en-la-piedra-del-sol/index.md,ano-1977,467,287 ANTROPOGÉNESIS EN LA PIEDRA DEL SOL,True,0,1,conference,9,False
+editorial/saw/qe/010/010-035.md,sitios/quinto-evangelio/content/ano-1977/sobre-las-culturas-mayas-y-nahuas/index.md,ano-1977,468,288 SOBRE LAS CULTURAS MAYAS Y NAHUAS,True,0,1,conference,10,False
+editorial/saw/qe/010/010-036.md,sitios/quinto-evangelio/content/ano-1977/las-grutas-de-cacahuamilpa/index.md,ano-1977,469,289 LAS GRUTAS DE CACAHUAMILPA,True,0,1,conference,10,False
+editorial/saw/qe/010/010-037.md,sitios/quinto-evangelio/content/ano-1977/el-cristo-cosmico-y-la-semana-santa/index.md,ano-1977,470,290 EL CRISTO CÓSMICO Y LA SEMANA SANTA,True,0,1,conference,10,False
+editorial/saw/qe/010/010-038.md,sitios/quinto-evangelio/content/ano-1977/algunas-respuestas-sobre-la-iniciacion-venusta/index.md,ano-1977,471,291 ALGUNAS RESPUESTAS SOBRE LA INICIACIÓN VENUSTA,True,0,1,conference,10,False
+editorial/saw/qe/010/010-039.md,sitios/quinto-evangelio/content/ano-1977/la-doctrina-del-fuego/index.md,ano-1977,472,292 LA DOCTRINA DEL FUEGO,True,0,1,conference,10,False
+editorial/saw/qe/010/010-040.md,sitios/quinto-evangelio/content/ano-1977/los-siete-radicales-de-fuego-y-el-sello-hermetico/index.md,ano-1977,473,293 LOS SIETE RADICALES DE FUEGO Y EL SELLO HERMÉTICO,True,0,1,conference,10,False
+editorial/saw/qe/010/010-041.md,sitios/quinto-evangelio/content/ano-1977/el-falso-sentimiento-del-yo/index.md,ano-1977,474,294 EL FALSO SENTIMIENTO DEL YO,True,0,1,conference,10,False
+editorial/saw/qe/010/010-042.md,sitios/quinto-evangelio/content/ano-1977/la-necesidad-de-cambiar-la-forma-de-pensar/index.md,ano-1977,475,295 LA NECESIDAD DE CAMBIAR LA FORMA DE PENSAR,True,0,1,conference,10,False
+editorial/saw/qe/010/010-043.md,sitios/quinto-evangelio/content/ano-1977/el-ego-y-las-efigies-mentales/index.md,ano-1977,476,296 EL EGO Y LAS EFIGIES MENTALES,True,0,1,conference,10,False
+editorial/saw/qe/010/010-044.md,sitios/quinto-evangelio/content/ano-1977/los-secretos-de-la-luna/index.md,ano-1977,477,297 LOS SECRETOS DE LA LUNA,True,0,1,conference,10,False
+editorial/saw/qe/010/010-045.md,sitios/quinto-evangelio/content/ano-1977/materia-y-talidad/index.md,ano-1977,478,298 MATERIA Y TALIDAD,True,0,1,conference,11,False
+editorial/saw/qe/010/010-046.md,sitios/quinto-evangelio/content/ano-1977/intuicion/index.md,ano-1977,479,299 INTUICIÓN,True,0,1,conference,11,False
+editorial/saw/qe/010/010-047.md,sitios/quinto-evangelio/content/ano-1977/las-ruinas-de-xochicalco/index.md,ano-1977,480,300 LAS RUINAS DE XOCHICALCO,True,0,1,conference,9,False
+editorial/saw/qe/010/010-048.md,sitios/quinto-evangelio/content/ano-1977/el-arche/index.md,ano-1977,481,301 EL ARCHÉ,True,0,1,conference,10,False
+editorial/saw/qe/010/010-049.md,sitios/quinto-evangelio/content/ano-1977/teotihuacan/index.md,ano-1977,482,302 TEOTIHUACÁN,True,0,1,conference,9,False
+editorial/saw/qe/010/010-050.md,sitios/quinto-evangelio/content/ano-1977/palabras-a-efrain-villegas/index.md,ano-1977,483,F090 PALABRAS A EFRAÍN VILLEGAS,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/010/010-051.md,sitios/quinto-evangelio/content/ano-1977/simbologia-de-la-serpiente-y-de-otros-animales/index.md,ano-1977,484,303 SIMBOLOGÍA DE LA SERPIENTE Y DE OTROS ANIMALES,True,0,1,conference,10,False
+editorial/saw/qe/010/010-052.md,sitios/quinto-evangelio/content/ano-1977/platica-entre-el-maestro-y-fernando-moya/index.md,ano-1977,485,304 PLÁTICA ENTRE EL MAESTRO Y FERNANDO MOYA,True,0,1,conference,9,False
+editorial/saw/qe/010/010-053.md,sitios/quinto-evangelio/content/ano-1977/la-auto-realizacion-y-la-disolucion-del-yo/index.md,ano-1977,486,305 LA AUTO-REALIZACIÓN Y LA DISOLUCIÓN DEL YO,True,0,1,conference,10,False
+editorial/saw/qe/010/010-054.md,sitios/quinto-evangelio/content/ano-1977/finalidad-del-matrimonio-gnostico/index.md,ano-1977,487,306 FINALIDAD DEL MATRIMONIO GNÓSTICO,True,0,1,conference,10,False
+editorial/saw/qe/010/010-055.md,sitios/quinto-evangelio/content/ano-1977/el-problema-de-tener-la-conciencia-dormida/index.md,ano-1977,488,307 EL PROBLEMA DE TENER LA CONCIENCIA DORMIDA,True,0,1,conference,10,False
+editorial/saw/qe/010/010-056.md,sitios/quinto-evangelio/content/ano-1977/respuestas-insolitas-del-maestro/index.md,ano-1977,489,308 RESPUESTAS INSÓLITAS DEL MAESTRO,True,0,1,conference,10,False
+editorial/saw/qe/010/010-057.md,sitios/quinto-evangelio/content/ano-1977/la-ciencia-pura-y-la-ciencia-materialista/index.md,ano-1977,490,309 LA CIENCIA PURA Y LA CIENCIA MATERIALISTA,True,0,1,conference,10,False
+editorial/saw/qe/010/010-058.md,sitios/quinto-evangelio/content/ano-1977/la-mente-unitotal/index.md,ano-1977,491,F091 LA MENTE UNITOTAL,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/010/010-059.md,sitios/quinto-evangelio/content/ano-1977/identidad-valores-e-imagen/index.md,ano-1977,492,"310 IDENTIDAD, VALORES E IMAGEN",True,0,1,conference,10,False
+editorial/saw/qe/010/010-060.md,sitios/quinto-evangelio/content/ano-1977/importancia-de-transferir-la-conciencia-al-vacio/index.md,ano-1977,493,F092 IMPORTANCIA DE TRANSFERIR LA CONCIENCIA AL VACÍO,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/010/010-061.md,sitios/quinto-evangelio/content/ano-1977/mantram-gate/index.md,ano-1977,494,F093 MANTRAM GATE,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/010/010-062.md,sitios/quinto-evangelio/content/ano-1977/el-cordero-inmolado/index.md,ano-1977,495,F094 EL CORDERO INMOLADO,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/010/010-063.md,sitios/quinto-evangelio/content/ano-1977/practica-colectiva-para-la-disolucion-del-ego-y-pronunciacion-de-algunos-mantrams/index.md,ano-1977,496,F095 PRÁCTICA COLECTIVA PARA LA DISOLUCIÓN DEL EGO Y PRONUNCIACIÓN DE ALGUNOS MANTRAMS,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/010/010-064.md,sitios/quinto-evangelio/content/ano-1977/la-ley-del-pendulo/index.md,ano-1977,497,311 LA LEY DEL PÉNDULO,True,0,1,conference,10,False
+editorial/saw/qe/010/010-065.md,sitios/quinto-evangelio/content/ano-1977/las-siete-mentes/index.md,ano-1977,498,312 LAS SIETE MENTES,True,0,1,conference,10,False
+editorial/saw/qe/010/010-066.md,sitios/quinto-evangelio/content/ano-1977/el-recuerdo-de-si/index.md,ano-1977,499,313 EL RECUERDO DE SÍ,True,0,1,conference,11,False
+editorial/saw/qe/010/010-067.md,sitios/quinto-evangelio/content/ano-1977/antropologia-gnostica-primera-catedra/index.md,ano-1977,500,"314 ANTROPOLOGÍA GNÓSTICA, PRIMERA CÁTEDRA",True,0,1,conference,10,False
+editorial/saw/qe/010/010-068.md,sitios/quinto-evangelio/content/ano-1977/antropologia-gnostica-segunda-catedra/index.md,ano-1977,501,"315 ANTROPOLOGÍA GNÓSTICA, SEGUNDA CÁTEDRA",True,0,1,conference,10,False
+editorial/saw/qe/010/010-069.md,sitios/quinto-evangelio/content/ano-1977/antropologia-gnostica-tercera-catedra/index.md,ano-1977,502,"316 ANTROPOLOGÍA GNÓSTICA, TERCERA CÁTEDRA",True,0,1,conference,10,False
+editorial/saw/qe/010/010-070.md,sitios/quinto-evangelio/content/ano-1977/antropologia-gnostica-cuarta-catedra/index.md,ano-1977,503,"317 ANTROPOLOGÍA GNÓSTICA, CUARTA CÁTEDRA",True,0,1,conference,10,False
+editorial/saw/qe/010/010-071.md,sitios/quinto-evangelio/content/ano-1977/antropologia-gnostica-quinta-catedra/index.md,ano-1977,504,"318 ANTROPOLOGÍA GNÓSTICA, QUINTA CÁTEDRA",True,0,1,conference,10,False
+editorial/saw/qe/010/010-072.md,sitios/quinto-evangelio/content/ano-1977/antropologia-gnostica-sexta-catedra/index.md,ano-1977,505,"319 ANTROPOLOGÍA GNÓSTICA, SEXTA CÁTEDRA",True,0,1,conference,10,False
+editorial/saw/qe/010/010-073.md,sitios/quinto-evangelio/content/ano-1977/nuestro-senor-quetzalcoatl/index.md,ano-1977,506,320 NUESTRO SEÑOR QUETZALCÓATL,True,0,1,conference,11,False
+editorial/saw/qe/010/010-074.md,sitios/quinto-evangelio/content/ano-1977/antropologia-gnostica-septima-catedra/index.md,ano-1977,507,"321 ANTROPOLOGÍA GNÓSTICA, SÉPTIMA CÁTEDRA",True,0,1,conference,10,False
+editorial/saw/qe/010/010-075.md,sitios/quinto-evangelio/content/ano-1977/quetzalcoatl-el-cristo-mexicano/index.md,ano-1977,508,"322 QUETZALCÓATL, EL CRISTO MEXICANO",True,0,1,conference,11,False
+editorial/saw/qe/010/010-076.md,sitios/quinto-evangelio/content/ano-1977/el-animal-intelectual-el-hombre-y-el-super-hombre/index.md,ano-1977,509,"323 EL ANIMAL INTELECTUAL, EL HOMBRE Y EL SUPER-HOMBRE",True,0,1,conference,10,False
+editorial/saw/qe/010/010-077.md,sitios/quinto-evangelio/content/ano-1977/secretos-arqueologicos-de-cempoala/index.md,ano-1977,510,324 SECRETOS ARQUEOLÓGICOS DE CEMPOALA,True,0,1,conference,10,False
+editorial/saw/qe/010/010-078.md,sitios/quinto-evangelio/content/ano-1977/importancia-del-estudio-de-la-antropologia-gnostica-y-forma-idonea-de-organizar-internamente-una-institucion-gnostica/index.md,ano-1977,511,325 IMPORTANCIA DEL ESTUDIO DE LA ANTROPOLOGÍA GNÓSTICA Y FORMA IDÓNEA DE ORGANIZAR INTERNAMENTE UNA INSTITUCIÓN GNÓSTICA,True,0,1,conference,10,False
+editorial/saw/qe/010/010-079.md,sitios/quinto-evangelio/content/ano-1977/didactica-concreta-para-la-disolucion-del-ego/index.md,ano-1977,512,326 DIDÁCTICA CONCRETA PARA LA DISOLUCIÓN DEL EGO,True,0,1,conference,10,False
+editorial/saw/qe/010/010-080.md,sitios/quinto-evangelio/content/ano-1977/buddhas-terrenales-y-buddhas-prototipo/index.md,ano-1977,513,F096 BUDDHAS TERRENALES Y BUDDHAS PROTOTIPO,True,0,1,transcription-fragment,9,False
+editorial/saw/qe/010/010-081.md,sitios/quinto-evangelio/content/ano-1977/didactica-para-eliminar-el-ego/index.md,ano-1977,514,327 DIDÁCTICA PARA ELIMINAR EL EGO,True,0,1,conference,10,False
+editorial/saw/qe/010/010-082.md,sitios/quinto-evangelio/content/ano-1977/amor-y-sexo/index.md,ano-1977,515,F097 AMOR Y SEXO,True,0,1,transcription-fragment,10,False
+editorial/saw/qe/010/010-083.md,sitios/quinto-evangelio/content/ano-1977/el-magnus-opus-o-la-gran-obra/index.md,ano-1977,516,328 EL MAGNUS OPUS O LA GRAN OBRA,True,0,1,conference,7,False
+editorial/saw/qe/010/010-084.md,sitios/quinto-evangelio/content/ano-1977/el-ego-y-la-catastrofe-final/index.md,ano-1977,517,F098 EL EGO Y LA CATÁSTROFE FINAL,True,0,1,transcription-fragment,7,False
+editorial/saw/qe/010/010-085.md,sitios/quinto-evangelio/content/ano-1977/el-eterno-femenino-y-su-relacion-con-jeshua-ben-pandira/index.md,ano-1977,518,329 EL ETERNO FEMENINO Y SU RELACIÓN CON JESHUÁ BEN PANDIRÁ,True,0,1,conference,7,False
+editorial/saw/qe/010/010-086.md,sitios/quinto-evangelio/content/ano-1977/el-activo-okidanock-como-resorte-de-nuestro-ingreso-en-la-verdadera-ensenanza-esoterica/index.md,ano-1977,519,330 EL ACTIVO OKIDANOCK COMO RESORTE DE NUESTRO INGRESO EN LA VERDADERA ENSEÑANZA ESOTÉRICA,True,0,1,conference,9,False
+editorial/saw/qe/010/010-087.md,sitios/quinto-evangelio/content/ano-1977/la-influencia-de-alcyone/index.md,ano-1977,520,331 LA INFLUENCIA DE ALCYONE,True,0,1,conference,10,False
+editorial/saw/qe/010/010-088.md,sitios/quinto-evangelio/content/ano-1977/los-anillos-de-alcyone/index.md,ano-1977,521,332 LOS ANILLOS DE ALCYONE,True,0,1,conference,11,False
+editorial/saw/qe/010/010-089.md,sitios/quinto-evangelio/content/ano-1977/evolucion-e-involucion/index.md,ano-1977,522,333 EVOLUCIÓN E INVOLUCIÓN,True,0,1,conference,9,False
+editorial/saw/qe/010/010-090.md,sitios/quinto-evangelio/content/ano-1977/para-los-pocos/_index.md,ano-1977,523,PARA LOS POCOS,True,0,8,book,5,False
+editorial/saw/qe/010/010-091.md,sitios/quinto-evangelio/content/ano-1977/quetzalcoatl/index.md,ano-1977,524,334 QUETZALCÓATL,True,0,1,conference,11,False
+editorial/saw/qe/010/010-092.md,sitios/quinto-evangelio/content/ano-1977/lucifer/_index.md,ano-1977,525,LUCIFER,True,0,7,book,6,False
+editorial/saw/qe/010/010-093.md,sitios/quinto-evangelio/content/ano-1977/banquete-de-la-fraternidad-y-del-amor/index.md,ano-1977,526,BANQUETE DE LA FRATERNIDAD Y DEL AMOR,True,0,1,short-text,5,False
+editorial/saw/qe/010/010-094.md,sitios/quinto-evangelio/content/ano-1977/himno-al-avatara-de-acuario/index.md,ano-1977,527,HIMNO AL AVATARA DE ACUARIO,True,0,1,document,7,False
+editorial/saw/qe/011/011-001.md,sitios/quinto-evangelio/content/a-modo-de-epilogo/a-modo-de-epilogo/index.md,a-modo-de-epilogo,528,A MODO DE EPÍLOGO,True,0,1,document,0,True
