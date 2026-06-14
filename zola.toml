@@ -1,5 +1,5 @@
 # Sitio
-base_url = "https://granhalcon.github.io/quinto-evangelio/"
+base_url = "https://circulo.pages.dev/quinto-evangelio"
 title = "El Quinto Evangelio"
 description = "Edición digital íntegra de El Quinto Evangelio."
 default_language = "es"
@@ -8,10 +8,9 @@ author = "Samael Aun Weor"
 # Compilación
 output_dir = "public"
 compile_sass = true
-minify_html = false
+minify_html = true
 hard_link_static = false
 preserve_dotfiles_in_output = false
-
 build_search_index = true
 generate_sitemap = true
 generate_robots_txt = true
@@ -64,20 +63,24 @@ footer_description = "Edición digital íntegra organizada para lectura y consul
 footer_author = "Gran Halcón"
 copyright_year = 2026
 navigation = [
-  { name = "Círculo", url = "https://granhalcon.github.io/circulo-solar/" },
-  { name = "Círculo de Iniciación", url = "https://granhalcon.github.io/circulo-solar/circulo-de-iniciacion/" },
-  { name = "Biblioteca", url = "https://granhalcon.github.io/circulo-solar/biblioteca-de-consulta-saw/" },
-  { name = "Quinto Evangelio", url = "https://granhalcon.github.io/quinto-evangelio/", active = true },
-  { name = "Primeras Letras", url = "https://granhalcon.github.io/circulo-solar/primeras-letras/" },
-  { name = "Pintas Ayahuasqueras", url = "https://granhalcon.github.io/circulo-solar/pintas-ayahuasqueras/" },
-  { name = "Círculos de Medicina", url = "https://granhalcon.github.io/circulo-solar/circulos-de-medicina/" },
+  { name = "Círculo", url = "https://circulo.pages.dev/" },
+  { name = "Círculo de Iniciación", url = "https://circulo.pages.dev/circulo-de-iniciacion/" },
+  { name = "Biblioteca", url = "https://circulo.pages.dev/biblioteca-de-consulta-saw/" },
+  { name = "Quinto Evangelio", url = "https://circulo.pages.dev/quinto-evangelio/", active = true },
+  { name = "Primeras Letras", url = "https://circulo.pages.dev/primeras-letras/" },
+  { name = "Pintas Ayahuasqueras", url = "https://circulo.pages.dev/pintas-ayahuasqueras/" },
+  { name = "Círculos de Medicina", url = "https://circulo.pages.dev/circulos-de-medicina/" },
 ]
 
 [extra.site]
 name = "El Quinto Evangelio"
 short_name = "Quinto Evangelio"
 locale = "es_MX"
-canonical_url = "https://granhalcon.github.io/quinto-evangelio/"
+canonical_url = "https://circulo.pages.dev/quinto-evangelio/"
+
+[extra.publisher]
+name = "Círculo de Cultura Gnóstica y Medicinas Ancestrales"
+url = "https://circulo.pages.dev/"
 
 [extra.publication]
 title = "El Quinto Evangelio"
