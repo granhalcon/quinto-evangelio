@@ -1,5 +1,6 @@
 # Sitio
 base_url = "https://circulo.pages.dev/quinto-evangelio/"
+theme = "enso"
 title = "El Quinto Evangelio"
 description = "Edición digital íntegra de El Quinto Evangelio."
 default_language = "es"

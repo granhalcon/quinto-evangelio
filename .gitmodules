@@ -1,0 +1,3 @@
+[submodule "themes/enso"]
+	path = themes/enso
+	url = https://github.com/granhalcon/enso.git
